@@ -8,7 +8,7 @@ We're happy to announce **Linkwarden 1.2**!
 
 <!--truncate-->
 
-## What's Changed
+## What's New?
 
 ### ↔️ Added Import/Export to Linkwarden Functionality
 
