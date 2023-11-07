@@ -4,6 +4,10 @@ authors: daniel
 
 # Linkwarden 1.2
 
+We're happy to announce **Linkwarden 1.2**!
+
+<!--truncate-->
+
 ## What's Changed
 
 ### ↔️ Added Import/Export to Linkwarden Functionality
