@@ -4,6 +4,10 @@ authors: daniel
 
 # Linkwarden 1.1
 
+We're happy to announce **Linkwarden 1.1**!
+
+<!--truncate-->
+
 ## What's Changed
 
 ### 🧩 Browser Extension
