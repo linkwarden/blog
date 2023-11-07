@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[686],{1968:e=>{e.exports=JSON.parse('{"label":"linkwarden","permalink":"/tags/linkwarden","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

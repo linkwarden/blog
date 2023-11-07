@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Linkwarden Blog</title>
+        <link>https://linkwarden.github.io/</link>
+        <description>Linkwarden Blog</description>
+        <lastBuildDate>Thu, 19 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Linkwarden 1.2]]></title>
+            <link>https://linkwarden.github.io/2023/10/19/linkwarden-1.2</link>
+            <guid>https://linkwarden.github.io/2023/10/19/linkwarden-1.2</guid>
+            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[What's Changed]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-changed">What's Changed<a href="https://linkwarden.github.io/2023/10/19/linkwarden-1.2#whats-changed" class="hash-link" aria-label="Direct link to What's Changed" title="Direct link to What's Changed">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-added-importexport-to-linkwarden-functionality">↔️ Added Import/Export to Linkwarden Functionality<a href="https://linkwarden.github.io/2023/10/19/linkwarden-1.2#%EF%B8%8F-added-importexport-to-linkwarden-functionality" class="hash-link" aria-label="Direct link to ↔️ Added Import/Export to Linkwarden Functionality" title="Direct link to ↔️ Added Import/Export to Linkwarden Functionality">​</a></h3>
+<p>Effortlessly migrate your data in and out of Linkwarden, making it easier than ever to manage and backup your information securely.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-redesigned-settings-page">⚙️ Redesigned Settings Page<a href="https://linkwarden.github.io/2023/10/19/linkwarden-1.2#%EF%B8%8F-redesigned-settings-page" class="hash-link" aria-label="Direct link to ⚙️ Redesigned Settings Page" title="Direct link to ⚙️ Redesigned Settings Page">​</a></h3>
+<p>We've revamped the Settings page with a sleek new design to improve navigability and user experience. The intuitive layout now makes it easier to configure Linkwarden to your liking.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-tweak-able-archive-formats">🎛️ Tweak-able Archive Formats<a href="https://linkwarden.github.io/2023/10/19/linkwarden-1.2#%EF%B8%8F-tweak-able-archive-formats" class="hash-link" aria-label="Direct link to 🎛️ Tweak-able Archive Formats" title="Direct link to 🎛️ Tweak-able Archive Formats">​</a></h3>
+<p>Tailor your archive formats to meet your specific needs with our new tweak-able settings. This feature allows for customization in how data is archived, providing a personalized user experience and efficient data management.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-many-bug-fixes--optimizations">🐜 Many Bug Fixes + Optimizations<a href="https://linkwarden.github.io/2023/10/19/linkwarden-1.2#-many-bug-fixes--optimizations" class="hash-link" aria-label="Direct link to 🐜 Many Bug Fixes + Optimizations" title="Direct link to 🐜 Many Bug Fixes + Optimizations">​</a></h3>
+<p>This update includes numerous bug fixes and optimizations that contribute to a smoother, more efficient user experience.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-new-archivable-format-wayback-machine">🏛️ New Archivable Format: <a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Wayback Machine</a><a href="https://linkwarden.github.io/2023/10/19/linkwarden-1.2#%EF%B8%8F-new-archivable-format-wayback-machine" class="hash-link" aria-label="Direct link to ️-new-archivable-format-wayback-machine" title="Direct link to ️-new-archivable-format-wayback-machine">​</a></h3>
+<p>Extend your archiving options with the newly supported Wayback Machine format. Now, easily save and access your data through archive.org, ensuring long-term preservation and accessibility of your digital assets.</p>
+<p><em>Disabled by default.</em> To enable it, head to the settings page, click on the "Archive" tab in the sidebar, and check the "Archive.org snapshot" checkbox, then click on "Save":</p>
+<p><img loading="lazy" src="https://github.com/linkwarden/linkwarden/assets/93432314/639d9da8-073e-41fa-ba3f-32b174331ff2" alt="Screenshot" class="img_ev3q"></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v1.1.0...v1.2.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v1.1.0...v1.2.0</a></p>]]></content:encoded>
+            <author>hello@daniel31x13.io (Daniel)</author>
+        </item>
+        <item>
+            <title><![CDATA[Linkwarden 1.1]]></title>
+            <link>https://linkwarden.github.io/2023/10/11/linkwarden-1.1</link>
+            <guid>https://linkwarden.github.io/2023/10/11/linkwarden-1.1</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[What's Changed]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-changed">What's Changed<a href="https://linkwarden.github.io/2023/10/11/linkwarden-1.1#whats-changed" class="hash-link" aria-label="Direct link to What's Changed" title="Direct link to What's Changed">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-browser-extension">🧩 Browser Extension!<a href="https://linkwarden.github.io/2023/10/11/linkwarden-1.1#-browser-extension" class="hash-link" aria-label="Direct link to 🧩 Browser Extension!" title="Direct link to 🧩 Browser Extension!">​</a></h3>
+<p>Add your favourite bookmarks without ever leaving your current tab. Star it over <a href="https://github.com/linkwarden/browser-extension" target="_blank" rel="noopener noreferrer">here</a>!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-fully-added-support-for-docker">🐳 Fully Added Support for Docker!<a href="https://linkwarden.github.io/2023/10/11/linkwarden-1.1#-fully-added-support-for-docker" class="hash-link" aria-label="Direct link to 🐳 Fully Added Support for Docker!" title="Direct link to 🐳 Fully Added Support for Docker!">​</a></h3>
+<p>Setup your own self-hosted instance easily, check out the instructions <a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-disable-registration-to-outsiders">🚫 Disable Registration to Outsiders!<a href="https://linkwarden.github.io/2023/10/11/linkwarden-1.1#-disable-registration-to-outsiders" class="hash-link" aria-label="Direct link to ��🚫 Disable Registration to Outsiders!" title="Direct link to 🚫 Disable Registration to Outsiders!">​</a></h3>
+<p>You can now disable registration for the public so it's only you and your team who has access to your own instance, check out the instructions <a href="https://docs.linkwarden.app/self-hosting/environment-variables" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-darklight-mode-support">⛅️ Dark/Light mode support!<a href="https://linkwarden.github.io/2023/10/11/linkwarden-1.1#%EF%B8%8F-darklight-mode-support" class="hash-link" aria-label="Direct link to ⛅️ Dark/Light mode support!" title="Direct link to ⛅️ Dark/Light mode support!">​</a></h3>
+<p>Choose what's best for yourself! Toggle dark/light mode right under the profile photo dropdown.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-import-your-bookmarks-from-other-browsers">⬇️ Import your Bookmarks from other Browsers!<a href="https://linkwarden.github.io/2023/10/11/linkwarden-1.1#%EF%B8%8F-import-your-bookmarks-from-other-browsers" class="hash-link" aria-label="Direct link to ⬇️ Import your Bookmarks from other Browsers!" title="Direct link to ⬇️ Import your Bookmarks from other Browsers!">​</a></h3>
+<p>Supports every major browsers out there, including Chrome, Brave, Edge, Firefox and Safari, import bookmarks right from your profile settings.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/2023/10/11/linkwarden-1.1#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>Check out the full changelog below.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v1.0.1...v1.1.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v1.0.1...v1.1.0</a></p>]]></content:encoded>
+            <author>hello@daniel31x13.io (Daniel)</author>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Linkwarden]]></title>
+            <link>https://linkwarden.github.io/2023/07/30/introducing-linkwarden</link>
+            <guid>https://linkwarden.github.io/2023/07/30/introducing-linkwarden</guid>
+            <pubDate>Sun, 30 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're very happy to introduce Linkwarden to help you manage your webpages and bookmarks!]]></description>
+            <content:encoded><![CDATA[<p>We're very happy to introduce <a href="https://linkwarden.app/" target="_blank" rel="noopener noreferrer">Linkwarden</a> to help you manage your webpages and bookmarks!</p>
+<p>Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, organize and preserve webpages.</p>
+<p>We created Linkwarden for the following reasons:</p>
+<ol>
+<li>
+<p>Preserve web pages that might vanish or change over time.</p>
+</li>
+<li>
+<p>Organize and store webpages in a single centralized hub.</p>
+</li>
+<li>
+<p>Share bookmarks and collaborate on collections with others easily.</p>
+</li>
+<li>
+<p>Promote users control over their data and privacy.</p>
+</li>
+</ol>
+<p>The objective is to organize useful webpages and articles you find across the web in one place, and since useful webpages can go away (see the inevitability of <a href="https://www.howtogeek.com/786227/what-is-link-rot-and-how-does-it-threaten-the-web/" target="_blank" rel="noopener noreferrer">Link Rot</a>), Linkwarden also saves a copy of each webpage as a Screenshot and PDF, ensuring accessibility even if the original content is no longer available.</p>
+<p>Additionally, Linkwarden is designed with collaboration in mind, sharing links with the public and/or allowing multiple users to work together seamlessly.</p>
+<p><img loading="lazy" alt="Showcase image" src="https://linkwarden.github.io/assets/images/showcase_image-2c911c624807d666e2d4feae7879d798.png" width="1648" height="930" class="img_ev3q"></p>]]></content:encoded>
+            <author>hello@daniel31x13.io (Daniel)</author>
+            <category>linkwarden</category>
+            <category>blog</category>
+            <category>link rot</category>
+        </item>
+    </channel>
+</rss>
