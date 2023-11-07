@@ -14,7 +14,7 @@
         <updated>2023-10-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We're happy to announce Linkwarden 1.2!]]></summary>
         <content type="html"><![CDATA[<p>We're happy to announce <strong>Linkwarden 1.2</strong>!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-changed">What's Changed<a href="https://linkwarden.github.io/2023/10/19/linkwarden-v1.2#whats-changed" class="hash-link" aria-label="Direct link to What's Changed" title="Direct link to What's Changed">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/2023/10/19/linkwarden-v1.2#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-added-importexport-to-linkwarden-functionality">↔️ Added Import/Export to Linkwarden Functionality<a href="https://linkwarden.github.io/2023/10/19/linkwarden-v1.2#%EF%B8%8F-added-importexport-to-linkwarden-functionality" class="hash-link" aria-label="Direct link to ↔️ Added Import/Export to Linkwarden Functionality" title="Direct link to ↔️ Added Import/Export to Linkwarden Functionality">​</a></h3>
 <p>Effortlessly migrate your data in and out of Linkwarden, making it easier than ever to manage and backup your information securely.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-redesigned-settings-page">⚙️ Redesigned Settings Page<a href="https://linkwarden.github.io/2023/10/19/linkwarden-v1.2#%EF%B8%8F-redesigned-settings-page" class="hash-link" aria-label="Direct link to ⚙️ Redesigned Settings Page" title="Direct link to ⚙️ Redesigned Settings Page">​</a></h3>
@@ -41,7 +41,7 @@
         <updated>2023-10-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We're happy to announce Linkwarden 1.1!]]></summary>
         <content type="html"><![CDATA[<p>We're happy to announce <strong>Linkwarden 1.1</strong>!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-changed">What's Changed<a href="https://linkwarden.github.io/2023/10/11/linkwarden-v1.1#whats-changed" class="hash-link" aria-label="Direct link to What's Changed" title="Direct link to What's Changed">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/2023/10/11/linkwarden-v1.1#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-browser-extension">🧩 Browser Extension<a href="https://linkwarden.github.io/2023/10/11/linkwarden-v1.1#-browser-extension" class="hash-link" aria-label="Direct link to 🧩 Browser Extension" title="Direct link to 🧩 Browser Extension">​</a></h3>
 <p>Add your favourite bookmarks without ever leaving your current tab. Star it over <a href="https://github.com/linkwarden/browser-extension" target="_blank" rel="noopener noreferrer">here</a>!</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-fully-added-support-for-docker">🐳 Fully Added Support for Docker<a href="https://linkwarden.github.io/2023/10/11/linkwarden-v1.1#-fully-added-support-for-docker" class="hash-link" aria-label="Direct link to 🐳 Fully Added Support for Docker" title="Direct link to 🐳 Fully Added Support for Docker">​</a></h3>
