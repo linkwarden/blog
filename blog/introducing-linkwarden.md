@@ -4,6 +4,7 @@ tags:
   - linkwarden
   - blog
   - link rot
+date: 2023-07-30T10:00
 ---
 
 # Introducing Linkwarden
