@@ -93,24 +93,46 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Linkwarden.`,
         links: [
           {
-            label: "Website",
-            href: "https://linkwarden.app",
+            title: "Explore",
+            items: [
+              {
+                label: "Our Website",
+                to: "https://linkwarden.app",
+              },
+              {
+                label: "Read our blog",
+                to: "https://blog.linkwarden.app",
+              },
+              {
+                label: "Our public roadmap",
+                to: "https://github.com/orgs/linkwarden/projects/1",
+              },
+              {
+                label: "Study the documentation",
+                to: "https://docs.linkwarden.app",
+              },
+            ],
           },
           {
-            label: "GitHub",
-            href: "https://github.com/linkwarden",
-          },
-          {
-            label: "Twitter",
-            href: "https://twitter.com/LinkwardenHQ",
-          },
-          {
-            label: "Mastodon",
-            href: "https://fosstodon.org/@linkwarden",
-          },
-          {
-            label: "Discord",
-            href: "https://discord.gg/CtuYV47nuJ",
+            title: "Community",
+            items: [
+              {
+                label: "GitHub",
+                href: "https://github.com/linkwarden",
+              },
+              {
+                label: "Twitter",
+                href: "https://twitter.com/LinkwardenHQ",
+              },
+              {
+                label: "Mastodon",
+                href: "https://fosstodon.org/@linkwarden",
+              },
+              {
+                label: "Discord",
+                href: "https://discord.gg/CtuYV47nuJ",
+              },
+            ],
           },
         ],
       },

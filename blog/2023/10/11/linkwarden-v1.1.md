@@ -8,7 +8,7 @@ We're happy to announce **Linkwarden 1.1**!
 
 <!--truncate-->
 
-## What's Changed
+## What's New?
 
 ### 🧩 Browser Extension
 
