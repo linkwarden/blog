@@ -50,6 +50,7 @@
             <email>hello@daniel31x13.io</email>
             <uri>https://github.com/daniel31x13</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linkwarden 1.2]]></title>
@@ -79,6 +80,7 @@
             <email>hello@daniel31x13.io</email>
             <uri>https://github.com/daniel31x13</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linkwarden 1.1]]></title>
