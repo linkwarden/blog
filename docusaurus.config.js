@@ -83,6 +83,16 @@ const config = {
             position: "left",
           },
           {
+            to: "https://docs.linkwarden.app",
+            label: "Documentation",
+            position: "left",
+          },
+          {
+            to: "https://linkwarden.app",
+            label: "Website",
+            position: "left",
+          },
+          {
             href: "https://github.com/linkwarden",
             label: "GitHub",
             position: "right",
