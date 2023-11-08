@@ -9,14 +9,43 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Linkwarden 2.0]]></title>
+            <title><![CDATA[Announcing Linkwarden 2.0]]></title>
             <link>https://linkwarden.github.io/releases/v2.0</link>
             <guid>https://linkwarden.github.io/releases/v2.0</guid>
             <pubDate>Tue, 07 Nov 2023 10:00:00 GMT</pubDate>
             <description><![CDATA[Today, we are happy to announce Linkwarden 2.0! 🥳]]></description>
-            <content:encoded><![CDATA[<p>Today, we are happy to announce <strong>Linkwarden 2.0</strong>! 🥳</p>
-<p>This is a new <strong>major</strong> version of Linkwarden, coming with new exciting features and optimization.</p>
-<p><strong>Page is under development... Will be ready in a few minutes.</strong></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Today, we are happy to announce <strong><a href="https://github.com/linkwarden/linkwarden/releases/tag/v2.0.0" target="_blank" rel="noopener noreferrer">Linkwarden 2.0</a></strong>! 🥳</p>
+<p>This is a new <strong>major</strong> version of Linkwarden, coming with many exciting new features and optimizations.</p>
+<p>Before we start, we'd like to express our sincere thanks to all of our <a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a> subscription users. Your support is crucial to our growth and allows us to continue improving. Thank you for being such an important part of our journey. 🚀</p>
+<p><img loading="lazy" alt="Launch image" src="https://linkwarden.github.io/assets/images/v2.0-launch-9d5e77cb1606aecfab6f14a0127519a7.jpeg" width="1280" height="768" class="img_ev3q"></p>
+<p>This release includes breaking changes which we documented carefully in the <a href="https://docs.linkwarden.app/self-hosting/upgrading/to-linkwarden-v2" target="_blank" rel="noopener noreferrer">v2 upgrade guide</a>. If you are a Cloud subscription user, the only thing you'll have to do is <strong>upgrading your browser extension</strong> to the latest version (1.2.0 and above).</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">Whats New?<a href="https://linkwarden.github.io/releases/v2.0#whats-new" class="hash-link" aria-label="Direct link to Whats New?" title="Direct link to Whats New?">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-archivable-format-readable-view">📖 New archivable format: Readable view<a href="https://linkwarden.github.io/releases/v2.0#-new-archivable-format-readable-view" class="hash-link" aria-label="Direct link to 📖 New archivable format: Readable view" title="Direct link to 📖 New archivable format: Readable view">​</a></h3>
+<p>Introducing a clean, readable format for archived webpages. This format captures and saves all the important details of a webpage, clearing out the clutter for you.</p>
+<p><img loading="lazy" alt="Readable view format" src="https://linkwarden.github.io/assets/images/readable_view-cb0d97d97143494893615f4e68773a60.png" width="1302" height="910" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-full-text-search-functionality">🔍 Full text search functionality<a href="https://linkwarden.github.io/releases/v2.0#-full-text-search-functionality" class="hash-link" aria-label="Direct link to 🔍 Full text search functionality" title="Direct link to 🔍 Full text search functionality">​</a></h3>
+<p>Enhanced search capabilities to allow full text searches within saved bookmarks.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-rename-and-remove-tags-functionality">📝 Rename and Remove Tags functionality<a href="https://linkwarden.github.io/releases/v2.0#-rename-and-remove-tags-functionality" class="hash-link" aria-label="Direct link to 📝 Rename and Remove Tags functionality" title="Direct link to 📝 Rename and Remove Tags functionality">​</a></h3>
+<p>Users can now easily rename or delete tags associated with their bookmarks.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-recent-links-in-dashboard">🕑 Recent Links in dashboard<a href="https://linkwarden.github.io/releases/v2.0#-recent-links-in-dashboard" class="hash-link" aria-label="Direct link to 🕑 Recent Links in dashboard" title="Direct link to 🕑 Recent Links in dashboard">​</a></h3>
+<p>Dashboard now displays the most recently added bookmarks for quick access.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-added-rearchive-functionality">↪️ Added rearchive functionality<a href="https://linkwarden.github.io/releases/v2.0#%EF%B8%8F-added-rearchive-functionality" class="hash-link" aria-label="Direct link to ↪️ Added rearchive functionality" title="Direct link to ↪️ Added rearchive functionality">​</a></h3>
+<p>Users can now rearchive webpages (refresh formats) to update the stored content.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-delete-profile-functionality">💥 Delete profile functionality<a href="https://linkwarden.github.io/releases/v2.0#-delete-profile-functionality" class="hash-link" aria-label="Direct link to 💥 Delete profile functionality" title="Direct link to 💥 Delete profile functionality">​</a></h3>
+<p>Users have the option to permanently delete their account and associated data.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-increased-max-import-size">⬆️ Increased max import size<a href="https://linkwarden.github.io/releases/v2.0#%EF%B8%8F-increased-max-import-size" class="hash-link" aria-label="Direct link to ⬆️ Increased max import size" title="Direct link to ⬆️ Increased max import size">​</a></h3>
+<p>Raised the limit on the size of bookmark imports.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-added-indicators-for-public-collections">🌐 Added indicators for public collections<a href="https://linkwarden.github.io/releases/v2.0#-added-indicators-for-public-collections" class="hash-link" aria-label="Direct link to 🌐 Added indicators for public collections" title="Direct link to 🌐 Added indicators for public collections">​</a></h3>
+<p>Visual cues have been added to distinguish public collections from private ones.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-seperated-ownedmember-collections">🗂️ Seperated owned/member collections<a href="https://linkwarden.github.io/releases/v2.0#%EF%B8%8F-seperated-ownedmember-collections" class="hash-link" aria-label="Direct link to 🗂️ Seperated owned/member collections" title="Direct link to 🗂️ Seperated owned/member collections">​</a></h3>
+<p>Collections owned by the user and those they are a member of are now shown separately for a more organized user interface.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-refactored-api-routes">⚡️ Refactored API routes<a href="https://linkwarden.github.io/releases/v2.0#%EF%B8%8F-refactored-api-routes" class="hash-link" aria-label="Direct link to ⚡️ Refactored API routes" title="Direct link to ⚡️ Refactored API routes">​</a></h3>
+<p>We improved the structure of API endpoints for better efficiency and maintenance.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes-security-patches-and-optimizations">🔧 Bug fixes, security patches, and optimizations<a href="https://linkwarden.github.io/releases/v2.0#-bug-fixes-security-patches-and-optimizations" class="hash-link" aria-label="Direct link to 🔧 Bug fixes, security patches, and optimizations" title="Direct link to 🔧 Bug fixes, security patches, and optimizations">​</a></h3>
+<p>Resolved a bug that caused images to reload unnecessarily.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/v2.0#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>Check out the full changelog below.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v1.2.5...v2.0.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v1.2.5...v2.0.0</a></p>]]></content:encoded>
             <author>hello@daniel31x13.io (Daniel)</author>
         </item>
         <item>
