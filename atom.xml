@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkwarden.github.io/</id>
     <title>Linkwarden Blog</title>
-    <updated>2023-11-10T10:00:00.000Z</updated>
+    <updated>2023-11-11T10:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkwarden.github.io/"/>
     <subtitle>Linkwarden Blog</subtitle>
     <icon>https://linkwarden.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Linkwarden 2.2]]></title>
+        <id>https://linkwarden.github.io/releases/v2.2</id>
+        <link href="https://linkwarden.github.io/releases/v2.2"/>
+        <updated>2023-11-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're happy to announce Linkwarden 2.2!]]></summary>
+        <content type="html"><![CDATA[<p>We're happy to announce <strong><a href="https://github.com/linkwarden/linkwarden" target="_blank" rel="noopener noreferrer">Linkwarden 2.2</a></strong>!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/v2.2#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-pinned-links-route">📌 New Pinned Links Route<a href="https://linkwarden.github.io/releases/v2.2#-new-pinned-links-route" class="hash-link" aria-label="Direct link to 📌 New Pinned Links Route" title="Direct link to 📌 New Pinned Links Route">​</a></h3>
+<p>View all your pinned links in a separate route.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-clear-links-instead-of-blurred">🎚️ Clear Links Instead of Blurred<a href="https://linkwarden.github.io/releases/v2.2#%EF%B8%8F-clear-links-instead-of-blurred" class="hash-link" aria-label="Direct link to 🎚️ Clear Links Instead of Blurred" title="Direct link to 🎚️ Clear Links Instead of Blurred">​</a></h3>
+<p>You can now make the icons clear instead of blurred.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.1.0...v2.2.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.1.0...v2.2.0</a></p>]]></content>
+        <author>
+            <name>Daniel</name>
+            <email>hello@daniel31x13.io</email>
+            <uri>https://github.com/daniel31x13</uri>
+        </author>
+        <category label="release" term="release"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linkwarden 2.1]]></title>
         <id>https://linkwarden.github.io/releases/v2.1</id>
