@@ -4,10 +4,30 @@
         <title>Linkwarden Blog</title>
         <link>https://linkwarden.github.io/</link>
         <description>Linkwarden Blog</description>
-        <lastBuildDate>Tue, 07 Nov 2023 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Linkwarden 2.1]]></title>
+            <link>https://linkwarden.github.io/releases/v2.1</link>
+            <guid>https://linkwarden.github.io/releases/v2.1</guid>
+            <pubDate>Fri, 10 Nov 2023 10:00:00 GMT</pubDate>
+            <description><![CDATA[We're happy to announce Linkwarden 2.1!]]></description>
+            <content:encoded><![CDATA[<p>We're happy to announce <strong>Linkwarden 2.1</strong>!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/v2.1#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-better-looking-dashboard-stats">🔥 Better Looking Dashboard Stats<a href="https://linkwarden.github.io/releases/v2.1#-better-looking-dashboard-stats" class="hash-link" aria-label="Direct link to 🔥 Better Looking Dashboard Stats" title="Direct link to 🔥 Better Looking Dashboard Stats">​</a></h3>
+<p>Enjoy a more visually appealing overview of your stats at a glance.</p>
+<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/redesigned-stats-12cd0532ac8bbea5ab12483edbfa082d.png" width="889" height="413" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-toggle-blurred-link-icons-visibility">🎚️ Toggle Blurred Link Icons Visibility<a href="https://linkwarden.github.io/releases/v2.1#%EF%B8%8F-toggle-blurred-link-icons-visibility" class="hash-link" aria-label="Direct link to 🎚️ Toggle Blurred Link Icons Visibility" title="Direct link to 🎚️ Toggle Blurred Link Icons Visibility">​</a></h3>
+<p>You can now choose to disable the visibility of the blurred link icons based on your preferences.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ℹ️-display-version-number">ℹ️ Display Version Number<a href="https://linkwarden.github.io/releases/v2.1#%E2%84%B9%EF%B8%8F-display-version-number" class="hash-link" aria-label="Direct link to ℹ️ Display Version Number" title="Direct link to ℹ️ Display Version Number">​</a></h3>
+<p>Stay informed with the version number displayed right at the bottom of your settings sidebar.</p>
+<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/version-number-cafde0716b0bf2e27629eb3a533415e3.png" width="461" height="417" class="img_ev3q"></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.0.0...v2.1.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.0.0...v2.1.0</a></p>]]></content:encoded>
+            <author>hello@daniel31x13.io (Daniel)</author>
+            <category>release</category>
+        </item>
         <item>
             <title><![CDATA[Announcing Linkwarden 2.0]]></title>
             <link>https://linkwarden.github.io/releases/v2.0</link>
