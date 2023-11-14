@@ -21,7 +21,7 @@ keywords:
     bookmark management,
     bookmark,
   ]
-image: /img/articles/link_rot.jpeg
+image: https://blog.linkwarden.app/assets/images/link_rot-287f7ef9adbb7eaf35091d7f5ba9f1c2.jpeg
 ---
 
 # Link Rot and Its Impact on the Web
