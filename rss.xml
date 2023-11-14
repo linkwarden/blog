@@ -10,17 +10,17 @@
         <language>en</language>
         <item>
             <title><![CDATA[Link Rot and Its Impact on the Web]]></title>
-            <link>https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1</link>
-            <guid>https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1</guid>
+            <link>https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web</link>
+            <guid>https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web</guid>
             <pubDate>Mon, 13 Nov 2023 10:00:00 GMT</pubDate>
             <description><![CDATA[Explore strategies to prevent link rot, a common issue where web links become obsolete, and learn how to prevent it.]]></description>
             <content:encoded><![CDATA[<p><img loading="lazy" alt="link rot" src="https://linkwarden.github.io/assets/images/link_rot-287f7ef9adbb7eaf35091d7f5ba9f1c2.jpeg" width="1024" height="1024" class="img_ev3q"></p>
 <p>Have you ever clicked on a link hoping to find specific information, only to be greeted with an error message - perhaps something like a 404 not found error? This frustrating experience is known as "Link Rot," a common issue in the ever-evolving digital landscape. In this post, we'll explore what link rot is, why it happens, and practical solutions to mitigate its impact.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-link-rot">What is Link Rot?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#what-is-link-rot" class="hash-link" aria-label="Direct link to What is Link Rot?" title="Direct link to What is Link Rot?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-link-rot">What is Link Rot?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web#what-is-link-rot" class="hash-link" aria-label="Direct link to What is Link Rot?" title="Direct link to What is Link Rot?">​</a></h2>
 <p>Link Rot occurs when hyperlinks on the internet become obsolete or broken. It's similar to having a map that leads to a location that no longer exists. In the digital world, these are links that once led to active web pages but now lead to dead ends, resulting in the loss of valuable online resources for everyone.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-common-is-it">How common is it?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#how-common-is-it" class="hash-link" aria-label="Direct link to How common is it?" title="Direct link to How common is it?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-common-is-it">How common is it?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web#how-common-is-it" class="hash-link" aria-label="Direct link to How common is it?" title="Direct link to How common is it?">​</a></h2>
 <p>Link Rot is actually pretty common. In fact, a <a href="https://ahrefs.com/blog/link-rot-study/" target="_blank" rel="noopener noreferrer">recent study</a> showed that more than 66% of links to websites in the last 9 years are dead. This means we're only dealing with less than 34% of the internet since then!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-does-link-rot-happen">Why Does Link Rot Happen?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#why-does-link-rot-happen" class="hash-link" aria-label="Direct link to Why Does Link Rot Happen?" title="Direct link to Why Does Link Rot Happen?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-does-link-rot-happen">Why Does Link Rot Happen?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web#why-does-link-rot-happen" class="hash-link" aria-label="Direct link to Why Does Link Rot Happen?" title="Direct link to Why Does Link Rot Happen?">​</a></h2>
 <ol>
 <li>
 <p><strong>Webpage Removal or Relocation:</strong> Websites are dynamic. Content gets deleted, moved, or updated, often without redirecting the old links to the new pages. A small example of why a website might choose to do this is illustrated in this article: <a href="https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo" target="_blank" rel="noopener noreferrer">CNET is deleting old articles to try to improve its Google Search ranking</a>.</p>
@@ -35,7 +35,7 @@
 <p><strong>Technical Issues:</strong> Server problems and changes in URL structures can also make a link inactive.</p>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-solution-to-link-rot">The Solution to Link Rot<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#the-solution-to-link-rot" class="hash-link" aria-label="Direct link to The Solution to Link Rot" title="Direct link to The Solution to Link Rot">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-solution-to-link-rot">The Solution to Link Rot<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web#the-solution-to-link-rot" class="hash-link" aria-label="Direct link to The Solution to Link Rot" title="Direct link to The Solution to Link Rot">​</a></h2>
 <ol>
 <li>
 <p><strong>Regular Link Audits:</strong> Website owners should regularly check and update their links. Tools like broken link checkers can automate this process.</p>
@@ -50,7 +50,7 @@
 <p><strong>Archiving Services:</strong> Using a bookmark and web archiving service like <a href="https://linkwarden.app/" target="_blank" rel="noopener noreferrer">Linkwarden</a> not only helps you to preserve webpages automatically but also offers powerful organization features. Linkwarden works by generating screenshots, PDFs, and other formats from a webpage, ensuring accessibility to the link content even if the original content is gone.</p>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="verdict">Verdict<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#verdict" class="hash-link" aria-label="Direct link to Verdict" title="Direct link to Verdict">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="verdict">Verdict<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web#verdict" class="hash-link" aria-label="Direct link to Verdict" title="Direct link to Verdict">​</a></h2>
 <p>Link Rot is an inevitable part of the internets lifecycle. However, understanding its causes and implementing effective strategies can significantly reduce its impact. By being proactive and using the right tools and practices, we can ensure a more stable and user-friendly digital experience.</p>]]></content:encoded>
             <author>hello@daniel31x13.io (Daniel)</author>
             <category>link rot</category>
@@ -174,7 +174,7 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/v1.1#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-browser-extension">🧩 Browser Extension<a href="https://linkwarden.github.io/releases/v1.1#-browser-extension" class="hash-link" aria-label="Direct link to 🧩 Browser Extension" title="Direct link to 🧩 Browser Extension">​</a></h3>
 <p>Add your favourite bookmarks without ever leaving your current tab. Star it over <a href="https://github.com/linkwarden/browser-extension" target="_blank" rel="noopener noreferrer">here</a>!</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-fully-added-support-for-docker">🐳 Fully Added Support for Docker<a href="https://linkwarden.github.io/releases/v1.1#-fully-added-support-for-docker" class="hash-link" aria-label="Direct link to 🐳 Fully Added Support for Docker" title="Direct link to 🐳 Fully Added Support for Docker">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-fully-added-support-for-docker">🐳 Fully Added Support for Docker<a href="https://linkwarden.github.io/releases/v1.1#-fully-added-support-for-docker" class="hash-link" aria-label="Direct link to �🐳 Fully Added Support for Docker" title="Direct link to 🐳 Fully Added Support for Docker">​</a></h3>
 <p>Setup your own self-hosted instance easily, check out the instructions <a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">here</a>.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-disable-registration-to-outsiders">🚫 Disable Registration to Outsiders<a href="https://linkwarden.github.io/releases/v1.1#-disable-registration-to-outsiders" class="hash-link" aria-label="Direct link to 🚫 Disable Registration to Outsiders" title="Direct link to 🚫 Disable Registration to Outsiders">​</a></h3>
 <p>You can now disable registration for the public so it's only you and your team who has access to your own instance, check out the instructions <a href="https://docs.linkwarden.app/self-hosting/environment-variables" target="_blank" rel="noopener noreferrer">here</a>.</p>
