@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkwarden.github.io/</id>
     <title>Linkwarden Blog</title>
-    <updated>2023-11-11T10:00:00.000Z</updated>
+    <updated>2023-11-13T10:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkwarden.github.io/"/>
     <subtitle>Linkwarden Blog</subtitle>
     <icon>https://linkwarden.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Link Rot and Its Impact on the Web]]></title>
+        <id>https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1</id>
+        <link href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1"/>
+        <updated>2023-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore strategies to prevent link rot, a common issue where web links become obsolete, and learn how to prevent it.]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="link rot" src="https://linkwarden.github.io/assets/images/link_rot-287f7ef9adbb7eaf35091d7f5ba9f1c2.jpeg" width="1024" height="1024" class="img_ev3q"></p>
+<p>Have you ever clicked on a link hoping to find specific information, only to be greeted with an error message - perhaps something like a 404 not found error? This frustrating experience is known as "Link Rot," a common issue in the ever-evolving digital landscape. In this post, we'll explore what link rot is, why it happens, and practical solutions to mitigate its impact.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-link-rot">What is Link Rot?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#what-is-link-rot" class="hash-link" aria-label="Direct link to What is Link Rot?" title="Direct link to What is Link Rot?">​</a></h2>
+<p>Link Rot occurs when hyperlinks on the internet become obsolete or broken. It's similar to having a map that leads to a location that no longer exists. In the digital world, these are links that once led to active web pages but now lead to dead ends, resulting in the loss of valuable online resources for everyone.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-common-is-it">How common is it?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#how-common-is-it" class="hash-link" aria-label="Direct link to How common is it?" title="Direct link to How common is it?">​</a></h2>
+<p>Link Rot is actually pretty common. In fact, a <a href="https://ahrefs.com/blog/link-rot-study/" target="_blank" rel="noopener noreferrer">recent study</a> showed that more than 66% of links to websites in the last 9 years are dead. This means we're only dealing with less than 34% of the internet since then!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-does-link-rot-happen">Why Does Link Rot Happen?<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#why-does-link-rot-happen" class="hash-link" aria-label="Direct link to Why Does Link Rot Happen?" title="Direct link to Why Does Link Rot Happen?">​</a></h2>
+<ol>
+<li>
+<p><strong>Webpage Removal or Relocation:</strong> Websites are dynamic. Content gets deleted, moved, or updated, often without redirecting the old links to the new pages. A small example of why a website might choose to do this is illustrated in this article: <a href="https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo" target="_blank" rel="noopener noreferrer">CNET is deleting old articles to try to improve its Google Search ranking</a>.</p>
+</li>
+<li>
+<p><strong>Domain Changes:</strong> Changes in domain names or website ownership can lead to link rot, as previous links may not be preserved.</p>
+</li>
+<li>
+<p><strong>Expired Content:</strong> Some content is time-sensitive or temporary, leading to its eventual removal or deletion.</p>
+</li>
+<li>
+<p><strong>Technical Issues:</strong> Server problems and changes in URL structures can also make a link inactive.</p>
+</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-solution-to-link-rot">The Solution to Link Rot<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#the-solution-to-link-rot" class="hash-link" aria-label="Direct link to The Solution to Link Rot" title="Direct link to The Solution to Link Rot">​</a></h2>
+<ol>
+<li>
+<p><strong>Regular Link Audits:</strong> Website owners should regularly check and update their links. Tools like broken link checkers can automate this process.</p>
+</li>
+<li>
+<p><strong>Using Permalinks:</strong> When possible, use permalinks which are less likely to change over time.</p>
+</li>
+<li>
+<p><strong>Implementing Redirects:</strong> If a page is moved, setting up a redirect from the old URL to the new one can prevent link rot.</p>
+</li>
+<li>
+<p><strong>Archiving Services:</strong> Using a bookmark and web archiving service like <a href="https://linkwarden.app/" target="_blank" rel="noopener noreferrer">Linkwarden</a> not only helps you to preserve webpages automatically but also offers powerful organization features. Linkwarden works by generating screenshots, PDFs, and other formats from a webpage, ensuring accessibility to the link content even if the original content is gone.</p>
+</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="verdict">Verdict<a href="https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web-1#verdict" class="hash-link" aria-label="Direct link to Verdict" title="Direct link to Verdict">​</a></h2>
+<p>Link Rot is an inevitable part of the internets lifecycle. However, understanding its causes and implementing effective strategies can significantly reduce its impact. By being proactive and using the right tools and practices, we can ensure a more stable and user-friendly digital experience.</p>]]></content>
+        <author>
+            <name>Daniel</name>
+            <email>hello@daniel31x13.io</email>
+            <uri>https://github.com/daniel31x13</uri>
+        </author>
+        <category label="link rot" term="link rot"/>
+        <category label="web maintenance" term="web maintenance"/>
+        <category label="digital archiving" term="digital archiving"/>
+        <category label="website management" term="website management"/>
+        <category label="archive" term="archive"/>
+        <category label="bookmark management" term="bookmark management"/>
+        <category label="bookmark" term="bookmark"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linkwarden 2.2]]></title>
         <id>https://linkwarden.github.io/releases/v2.2</id>
@@ -37,12 +94,12 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/v2.1#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-better-looking-dashboard-stats">🔥 Better Looking Dashboard Stats<a href="https://linkwarden.github.io/releases/v2.1#-better-looking-dashboard-stats" class="hash-link" aria-label="Direct link to 🔥 Better Looking Dashboard Stats" title="Direct link to 🔥 Better Looking Dashboard Stats">​</a></h3>
 <p>Enjoy a more visually appealing overview of your stats at a glance.</p>
-<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/redesigned-stats-12cd0532ac8bbea5ab12483edbfa082d.png" width="889" height="413" class="img_ev3q"></p>
+<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/redesigned-stats-9861d1a240de7fd504c254014b5dda6c.jpeg" width="889" height="413" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-toggle-blurred-link-icons-visibility">🎚️ Toggle Blurred Link Icons Visibility<a href="https://linkwarden.github.io/releases/v2.1#%EF%B8%8F-toggle-blurred-link-icons-visibility" class="hash-link" aria-label="Direct link to 🎚️ Toggle Blurred Link Icons Visibility" title="Direct link to 🎚️ Toggle Blurred Link Icons Visibility">​</a></h3>
 <p>You can now choose to disable the visibility of the blurred link icons based on your preferences.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="ℹ️-display-version-number">ℹ️ Display Version Number<a href="https://linkwarden.github.io/releases/v2.1#%E2%84%B9%EF%B8%8F-display-version-number" class="hash-link" aria-label="Direct link to ℹ️ Display Version Number" title="Direct link to ℹ️ Display Version Number">​</a></h3>
 <p>Stay informed with the version number displayed right at the bottom of your settings sidebar.</p>
-<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/version-number-cafde0716b0bf2e27629eb3a533415e3.png" width="461" height="417" class="img_ev3q"></p>
+<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/version-number-e5c15ff86d17b0c8404dac6115fcfe69.jpeg" width="461" height="417" class="img_ev3q"></p>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.0.0...v2.1.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.0.0...v2.1.0</a></p>]]></content>
         <author>
             <name>Daniel</name>
@@ -60,12 +117,12 @@
         <content type="html"><![CDATA[<p>Today, we are happy to announce <strong><a href="https://github.com/linkwarden/linkwarden/releases/tag/v2.0.0" target="_blank" rel="noopener noreferrer">Linkwarden 2.0</a></strong>! 🥳</p>
 <p>This is a new <strong>major</strong> version of Linkwarden, coming with many exciting new features and optimizations.</p>
 <p>Before we start, we'd like to express our sincere thanks to all of our <a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a> subscription users. Your support is crucial to our growth and allows us to continue improving. Thank you for being such an important part of our journey. 🚀</p>
-<p><img loading="lazy" alt="Launch image" src="https://linkwarden.github.io/assets/images/v2.0-launch-9d5e77cb1606aecfab6f14a0127519a7.jpeg" width="1280" height="768" class="img_ev3q"></p>
+<p><img loading="lazy" alt="Launch image" src="https://linkwarden.github.io/assets/images/v2.0-launch-f98ca793f337d8cbe4de791d1df7787f.jpeg" width="1280" height="768" class="img_ev3q"></p>
 <p>This release includes breaking changes which we documented carefully in the <a href="https://docs.linkwarden.app/self-hosting/upgrading/to-linkwarden-v2" target="_blank" rel="noopener noreferrer">v2 upgrade guide</a>. If you are a Cloud subscription user, the only thing you'll have to do is <strong>upgrading your browser extension</strong> to the latest version (1.2.0 and above).</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">Whats New?<a href="https://linkwarden.github.io/releases/v2.0#whats-new" class="hash-link" aria-label="Direct link to Whats New?" title="Direct link to Whats New?">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-archivable-format-readable-view">📖 New archivable format: Readable view<a href="https://linkwarden.github.io/releases/v2.0#-new-archivable-format-readable-view" class="hash-link" aria-label="Direct link to 📖 New archivable format: Readable view" title="Direct link to 📖 New archivable format: Readable view">​</a></h3>
 <p>Introducing a clean, readable format for archived webpages. This format captures and saves all the important details of a webpage, clearing out the clutter for you.</p>
-<p><img loading="lazy" alt="Readable view format" src="https://linkwarden.github.io/assets/images/readable_view-cb0d97d97143494893615f4e68773a60.png" width="1302" height="910" class="img_ev3q"></p>
+<p><img loading="lazy" alt="Readable view format" src="https://linkwarden.github.io/assets/images/readable_view-df7d703730a20ae01b6d03379e6b351f.png" width="1302" height="910" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-full-text-search-functionality">🔍 Full text search functionality<a href="https://linkwarden.github.io/releases/v2.0#-full-text-search-functionality" class="hash-link" aria-label="Direct link to 🔍 Full text search functionality" title="Direct link to 🔍 Full text search functionality">​</a></h3>
 <p>Enhanced search capabilities to allow full text searches within saved bookmarks.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-rename-and-remove-tags-functionality">📝 Rename and Remove Tags functionality<a href="https://linkwarden.github.io/releases/v2.0#-rename-and-remove-tags-functionality" class="hash-link" aria-label="Direct link to 📝 Rename and Remove Tags functionality" title="Direct link to 📝 Rename and Remove Tags functionality">​</a></h3>
@@ -179,7 +236,7 @@
 </ol>
 <p>The objective is to organize useful webpages and articles you find across the web in one place, and since useful webpages can go away (see the inevitability of <a href="https://www.howtogeek.com/786227/what-is-link-rot-and-how-does-it-threaten-the-web/" target="_blank" rel="noopener noreferrer">Link Rot</a>), Linkwarden also saves a copy of each webpage as a Screenshot and PDF, ensuring accessibility even if the original content is no longer available.</p>
 <p>Additionally, Linkwarden is designed with collaboration in mind, sharing links with the public and/or allowing multiple users to work together seamlessly.</p>
-<p><img loading="lazy" alt="Showcase image" src="https://linkwarden.github.io/assets/images/showcase_image-2c911c624807d666e2d4feae7879d798.png" width="1648" height="930" class="img_ev3q"></p>]]></content>
+<p><img loading="lazy" alt="Showcase image" src="https://linkwarden.github.io/assets/images/showcase_image-129444057ae148b3ad7d924fce97db1c.png" width="1648" height="930" class="img_ev3q"></p>]]></content>
         <author>
             <name>Daniel</name>
             <email>hello@daniel31x13.io</email>
