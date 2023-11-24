@@ -4,10 +4,49 @@
         <title>Linkwarden Blog</title>
         <link>https://linkwarden.github.io/</link>
         <description>Linkwarden Blog</description>
-        <lastBuildDate>Mon, 13 Nov 2023 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Linkwarden 2.3]]></title>
+            <link>https://linkwarden.github.io/releases/v2.3</link>
+            <guid>https://linkwarden.github.io/releases/v2.3</guid>
+            <pubDate>Fri, 24 Nov 2023 10:00:00 GMT</pubDate>
+            <description><![CDATA[We're happy to announce Linkwarden 2.3!]]></description>
+            <content:encoded><![CDATA[<p>We're happy to announce <strong>Linkwarden 2.3</strong>!</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</div><div class="admonitionContent_BuS1"><p>This is the changelog for Linkwarden v2.3. <br>
+For more info, please visit our <strong><a href="https://linkwarden.app/" target="_blank" rel="noopener noreferrer">Website</a></strong> and/or our <strong><a href="https://github.com/linkwarden/linkwarden" target="_blank" rel="noopener noreferrer">GitHub</a></strong> page.</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/v2.3#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhanced-public-page">🌟 Enhanced Public Page<a href="https://linkwarden.github.io/releases/v2.3#-enhanced-public-page" class="hash-link" aria-label="Direct link to 🌟 Enhanced Public Page" title="Direct link to 🌟 Enhanced Public Page">​</a></h3>
+<p>We've transformed the public page with many exciting updates!</p>
+<ul>
+<li>Now featuring advanced search capabilities, versatile filtering options, and intuitive sorting tools.</li>
+<li>Dark mode support for the public page!</li>
+<li>Visually stunning makeover for a more engaging and user-friendly experience!</li>
+<li>Share the archived formats with the public.</li>
+<li>View the team that's collaborating on the Collection.</li>
+</ul>
+<p>If you want to make a Collections public, simply click on the three dots on a Collection card, click on "Share/Collaborate", click on "Make this a public collection", and finally click "Save."</p>
+<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/public_page-4a4a337abc9d9d82bef73cec56943cc9.png" width="1656" height="1324" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-more-intuitive-and-informative-sidebar">🔥 More Intuitive and Informative Sidebar<a href="https://linkwarden.github.io/releases/v2.3#-more-intuitive-and-informative-sidebar" class="hash-link" aria-label="Direct link to 🔥 More Intuitive and Informative Sidebar" title="Direct link to 🔥 More Intuitive and Informative Sidebar">​</a></h3>
+<p>We've upgraded the sidebar to enhance your browsing efficiency!</p>
+<ul>
+<li>Display the total count of Links in each Collection and Tags.</li>
+<li>Display which Collections are public right from your sidebar.</li>
+</ul>
+<p>Enjoy a more informative and seamless navigation experience directly from your sidebar.</p>
+<div align="center"><img src="https://linkwarden.github.io/assets/images/sidebar-632cb3576c5427d67b8ec6a97afc577c.jpg" alt="Screenshot"></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-secure-single-sign-on-with-keycloak-integration">🔐 Secure Single Sign-On with Keycloak Integration<a href="https://linkwarden.github.io/releases/v2.3#-secure-single-sign-on-with-keycloak-integration" class="hash-link" aria-label="Direct link to 🔐 Secure Single Sign-On with Keycloak Integration" title="Direct link to 🔐 Secure Single Sign-On with Keycloak Integration">​</a></h3>
+<p>Enhancing security and convenience, we've implemented Keycloak (OIDC) for streamlined Single Sign-On (SSO) login capabilities. Experience a safer, more efficient authentication process!</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>note</div><div class="admonitionContent_BuS1"><p>SSO and Keycloak integration is only available for <strong>Enterprise</strong> and <strong>self-hosted</strong> users. <br>
+For self-hosted users, please visit the <strong><a href="https://docs.linkwarden.app/self-hosting/environment-variables#keycloak-settings" target="_blank" rel="noopener noreferrer">docs</a></strong> on setting the environment variables for connecting to your Keycloak instance.</p></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/v2.3#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>Check out the full changelog below.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.2.1...v2.3.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.2.1...v2.3.0</a></p>]]></content:encoded>
+            <author>hello@daniel31x13.io (Daniel)</author>
+            <category>release</category>
+        </item>
         <item>
             <title><![CDATA[Link Rot and Its Impact on the Web]]></title>
             <link>https://linkwarden.github.io/articles/link-rot-and-its-impact-on-the-web</link>
@@ -87,12 +126,12 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/v2.1#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-better-looking-dashboard-stats">🔥 Better Looking Dashboard Stats<a href="https://linkwarden.github.io/releases/v2.1#-better-looking-dashboard-stats" class="hash-link" aria-label="Direct link to 🔥 Better Looking Dashboard Stats" title="Direct link to 🔥 Better Looking Dashboard Stats">​</a></h3>
 <p>Enjoy a more visually appealing overview of your stats at a glance.</p>
-<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/redesigned-stats-9861d1a240de7fd504c254014b5dda6c.jpeg" width="889" height="413" class="img_ev3q"></p>
+<div align="center"><img src="https://linkwarden.github.io/assets/images/redesigned-stats-9861d1a240de7fd504c254014b5dda6c.jpeg" alt="Screenshot" width="80%"></div>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-toggle-blurred-link-icons-visibility">🎚️ Toggle Blurred Link Icons Visibility<a href="https://linkwarden.github.io/releases/v2.1#%EF%B8%8F-toggle-blurred-link-icons-visibility" class="hash-link" aria-label="Direct link to 🎚️ Toggle Blurred Link Icons Visibility" title="Direct link to 🎚️ Toggle Blurred Link Icons Visibility">​</a></h3>
 <p>You can now choose to disable the visibility of the blurred link icons based on your preferences.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="ℹ️-display-version-number">ℹ️ Display Version Number<a href="https://linkwarden.github.io/releases/v2.1#%E2%84%B9%EF%B8%8F-display-version-number" class="hash-link" aria-label="Direct link to ℹ️ Display Version Number" title="Direct link to ℹ️ Display Version Number">​</a></h3>
 <p>Stay informed with the version number displayed right at the bottom of your settings sidebar.</p>
-<p><img loading="lazy" alt="Screenshot" src="https://linkwarden.github.io/assets/images/version-number-e5c15ff86d17b0c8404dac6115fcfe69.jpeg" width="461" height="417" class="img_ev3q"></p>
+<div align="center"><img src="https://linkwarden.github.io/assets/images/version-number-e5c15ff86d17b0c8404dac6115fcfe69.jpeg" alt="Screenshot" width="60%"></div>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.0.0...v2.1.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.0.0...v2.1.0</a></p>]]></content:encoded>
             <author>hello@daniel31x13.io (Daniel)</author>
             <category>release</category>
@@ -174,7 +213,7 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/v1.1#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-browser-extension">🧩 Browser Extension<a href="https://linkwarden.github.io/releases/v1.1#-browser-extension" class="hash-link" aria-label="Direct link to 🧩 Browser Extension" title="Direct link to 🧩 Browser Extension">​</a></h3>
 <p>Add your favourite bookmarks without ever leaving your current tab. Star it over <a href="https://github.com/linkwarden/browser-extension" target="_blank" rel="noopener noreferrer">here</a>!</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-fully-added-support-for-docker">🐳 Fully Added Support for Docker<a href="https://linkwarden.github.io/releases/v1.1#-fully-added-support-for-docker" class="hash-link" aria-label="Direct link to �🐳 Fully Added Support for Docker" title="Direct link to 🐳 Fully Added Support for Docker">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-fully-added-support-for-docker">🐳 Fully Added Support for Docker<a href="https://linkwarden.github.io/releases/v1.1#-fully-added-support-for-docker" class="hash-link" aria-label="Direct link to 🐳 Fully Added Support for Docker" title="Direct link to 🐳 Fully Added Support for Docker">​</a></h3>
 <p>Setup your own self-hosted instance easily, check out the instructions <a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">here</a>.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-disable-registration-to-outsiders">🚫 Disable Registration to Outsiders<a href="https://linkwarden.github.io/releases/v1.1#-disable-registration-to-outsiders" class="hash-link" aria-label="Direct link to 🚫 Disable Registration to Outsiders" title="Direct link to 🚫 Disable Registration to Outsiders">​</a></h3>
 <p>You can now disable registration for the public so it's only you and your team who has access to your own instance, check out the instructions <a href="https://docs.linkwarden.app/self-hosting/environment-variables" target="_blank" rel="noopener noreferrer">here</a>.</p>
