@@ -26,7 +26,7 @@ image: https://blog.linkwarden.app/assets/images/link_rot-287f7ef9adbb7eaf35091d
 
 # Link Rot and Its Impact on the Web
 
-![link rot](/img/articles/link_rot.jpeg)
+![link rot](/assets/articles/link_rot.jpeg)
 
 Have you ever clicked on a link hoping to find specific information, only to be greeted with an error message - perhaps something like a 404 not found error? This frustrating experience is known as "Link Rot," a common issue in the ever-evolving digital landscape. In this post, we'll explore what link rot is, why it happens, and practical solutions to mitigate its impact.
 

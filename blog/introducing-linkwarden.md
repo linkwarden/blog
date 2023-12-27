@@ -29,4 +29,4 @@ The objective is to organize useful webpages and articles you find across the we
 
 Additionally, Linkwarden is designed with collaboration in mind, sharing links with the public and/or allowing multiple users to work together seamlessly.
 
-![Showcase image](/img/showcase_image.png)
+![Showcase image](/assets/showcase_image.png)
