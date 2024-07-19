@@ -4,10 +4,54 @@
         <title>Linkwarden Blog</title>
         <link>https://linkwarden.github.io/</link>
         <description>Linkwarden Blog</description>
-        <lastBuildDate>Wed, 06 Mar 2024 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Announcing Linkwarden 2.6]]></title>
+            <link>https://linkwarden.github.io/releases/v2.6</link>
+            <guid>https://linkwarden.github.io/releases/v2.6</guid>
+            <pubDate>Fri, 19 Jul 2024 10:00:00 GMT</pubDate>
+            <description><![CDATA[Today, we're excited to announce the release of Linkwarden 2.6! 🥳 This update brings significant improvements and new features to enhance your experience.]]></description>
+            <content:encoded><![CDATA[<p>Today, we're excited to announce the release of <strong><a href="https://github.com/linkwarden/linkwarden?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_6_announcement" target="_blank" rel="noopener noreferrer">Linkwarden 2.6</a></strong>! 🥳 This update brings significant improvements and new features to enhance your experience.</p>
+<p>As always before we start, we'd like to express our sincere thanks to all of our <strong><a href="https://linkwarden.app/#pricing?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_6_announcement" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription users. Your support is crucial to our growth and allows us to continue improving. Thank you for being such an important part of our journey. 🚀</p>
+<p><img loading="lazy" alt="Launch image" src="https://linkwarden.github.io/assets/images/banner-2c17e41a6601f04fceca6aeb59cdc14b.jpg" width="2000" height="1142" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/v2.6#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>We're actively bringing new features to Linkwarden users around the globe. If you like our work, please <a href="https://github.com/linkwarden/linkwarden" target="_blank" rel="noopener noreferrer">Star our repo on GitHub</a>! ⭐️ Your support means a lot to us.</p></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-full-page-copy">📄 Full Page Copy<a href="https://linkwarden.github.io/releases/v2.6#-full-page-copy" class="hash-link" aria-label="Direct link to 📄 Full Page Copy" title="Direct link to 📄 Full Page Copy">​</a></h3>
+<p>This new feature allows users to save a complete copy of a webpage in a HTML format. It's perfect for archiving pages in their entirety, capturing all content as it appears at a specific point in time.</p>
+<p><img loading="lazy" alt="full copy" src="https://linkwarden.github.io/assets/images/full_copy-e8455acf2a87670ebaa1aa136e953c14.jpeg" width="1280" height="416" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-user-administration">👥 User Administration<a href="https://linkwarden.github.io/releases/v2.6#-user-administration" class="hash-link" aria-label="Direct link to 👥 User Administration" title="Direct link to 👥 User Administration">​</a></h3>
+<p>Server administrators can now manage user addition and deletion with greater ease. This feature is especially useful for organizations that need to manage multiple users.</p>
+<p><img loading="lazy" alt="user administration" src="https://linkwarden.github.io/assets/images/user_admin-275d49c582dc53931e592a0b6507bdf3.jpeg" width="1280" height="436" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-masonry-view">🧱 New Masonry View<a href="https://linkwarden.github.io/releases/v2.6#-new-masonry-view" class="hash-link" aria-label="Direct link to 🧱 New Masonry View" title="Direct link to 🧱 New Masonry View">​</a></h3>
+<p>View your bookmarks in a visually appealing masonry layout, where content is arranged in an optimal position based on available vertical space. This feature is perfect for users who prefer a more visual approach to browsing their bookmarks.</p>
+<p><img loading="lazy" alt="masonry view" src="https://linkwarden.github.io/assets/images/masonry_view-9e0bd61db833df6f00f2df4c8c6e3d46.jpeg" width="1280" height="916" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-ios-and-macos-apps-maintained-by-jgeek00">🍏 iOS and MacOS Apps (Maintained by JGeek00)<a href="https://linkwarden.github.io/releases/v2.6#-ios-and-macos-apps-maintained-by-jgeek00" class="hash-link" aria-label="Direct link to 🍏 iOS and MacOS Apps (Maintained by JGeek00)" title="Direct link to 🍏 iOS and MacOS Apps (Maintained by JGeek00)">​</a></h3>
+<p>We're excited to announce the release of the new iOS and MacOS apps, developed and maintained by <a href="https://github.com/JGeek00" target="_blank" rel="noopener noreferrer">JGeek00</a>. These apps provide a seamless experience for users who prefer to access Linkwarden on their Apple devices. You can download the apps directly from the <a href="https://apps.apple.com/ca/app/my-links-for-linkwarden/id6504573402" target="_blank" rel="noopener noreferrer">App Store</a>.</p>
+<img src="https://linkwarden.github.io/assets/v2.6/ios_app.jpeg" alt="iOS app" width="170">
+<img src="https://linkwarden.github.io/assets/v2.6/macos_app.jpeg" alt="MacOS app" width="548">
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-import-from-wallabag">📥 Import from Wallabag<a href="https://linkwarden.github.io/releases/v2.6#-import-from-wallabag" class="hash-link" aria-label="Direct link to 📥 Import from Wallabag" title="Direct link to 📥 Import from Wallabag">​</a></h3>
+<p>There was a high demand for this feature, and we're excited to announce that you can now import your bookmarks from Wallabag. This feature simplifies the transition process, allowing users to maintain their bookmarks without hassle.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-support-for-other-languages-i18n">🌐 Support for Other Languages (i18n)<a href="https://linkwarden.github.io/releases/v2.6#-support-for-other-languages-i18n" class="hash-link" aria-label="Direct link to 🌐 Support for Other Languages (i18n)" title="Direct link to 🌐 Support for Other Languages (i18n)">​</a></h3>
+<p>Linkwarden has recently expanded to support Italian in addition to English. As this feature is quite new, there might be some bugs, and we're actively working to refine it. We're also looking for community help with translations to make Linkwarden accessible in more languages soon!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-image-and-pdf-uploads">📁 Image and PDF Uploads<a href="https://linkwarden.github.io/releases/v2.6#-image-and-pdf-uploads" class="hash-link" aria-label="Direct link to 📁 Image and PDF Uploads" title="Direct link to 📁 Image and PDF Uploads">​</a></h3>
+<p>Users can now upload images and PDF files directly to Linkwarden. This feature is perfect for users who want to store paywalled or password-protected content.</p>
+<p><img loading="lazy" alt="file uploads" src="https://linkwarden.github.io/assets/images/file_uploads-471e2e9d19f16525e7e31f9db5828b09.jpeg" width="1164" height="684" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhanced-security">🔒 Enhanced Security<a href="https://linkwarden.github.io/releases/v2.6#-enhanced-security" class="hash-link" aria-label="Direct link to 🔒 Enhanced Security" title="Direct link to 🔒 Enhanced Security">​</a></h3>
+<p>This update includes several security enhancements to protect your data and ensure a secure browsing experience. We've also fixed several bugs and improved overall performance.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-support-for-google-oauth">🔑 Support for Google OAuth<a href="https://linkwarden.github.io/releases/v2.6#-support-for-google-oauth" class="hash-link" aria-label="Direct link to 🔑 Support for Google OAuth" title="Direct link to 🔑 Support for Google OAuth">​</a></h3>
+<p>You can now use Google OAuth to sign in to Linkwarden. This feature simplifies the login process and provides a secure authentication method. Just note that we're still pending Google's approval for the OAuth consent screen and it will be available soon.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And More...<a href="https://linkwarden.github.io/releases/v2.6#-and-more" class="hash-link" aria-label="Direct link to ✅ And More..." title="Direct link to ✅ And More...">​</a></h3>
+<p>Check out the full changelog below.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.5.3...v2.6.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.5.3...v2.6.0</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-external-links">🔗 External Links<a href="https://linkwarden.github.io/releases/v2.6#-external-links" class="hash-link" aria-label="Direct link to 🔗 External Links" title="Direct link to 🔗 External Links">​</a></h3>
+<p><strong>Website</strong>: <a href="https://linkwarden.app/" target="_blank" rel="noopener noreferrer">https://linkwarden.app</a></p>
+<p><strong>GitHub</strong>: <a href="https://github.com/linkwarden/linkwarden" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden</a></p>]]></content:encoded>
+            <author>hello@daniel31x13.io (Daniel)</author>
+            <category>release</category>
+        </item>
         <item>
             <title><![CDATA[Linkwarden 2.5]]></title>
             <link>https://linkwarden.github.io/releases/v2.5</link>
