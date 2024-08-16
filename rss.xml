@@ -4,10 +4,40 @@
         <title>Linkwarden Blog</title>
         <link>https://linkwarden.github.io/</link>
         <description>Linkwarden Blog</description>
-        <lastBuildDate>Fri, 19 Jul 2024 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Linkwarden 2.7]]></title>
+            <link>https://linkwarden.github.io/releases/2.7</link>
+            <guid>https://linkwarden.github.io/releases/2.7</guid>
+            <pubDate>Fri, 16 Aug 2024 10:00:00 GMT</pubDate>
+            <description><![CDATA[Today, we're excited to announce the release of Linkwarden 2.7! 🥳 This update brings many new features and optimizations.]]></description>
+            <content:encoded><![CDATA[<p>Today, we're excited to announce the release of <strong><a href="https://linkwarden.app/#pricing?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_7_announcement" target="_blank" rel="noopener noreferrer">Linkwarden 2.7</a></strong>! 🥳 This update brings many new features and optimizations.</p>
+<p>As always before we start, we'd like to express our sincere thanks to all of our <strong><a href="https://linkwarden.app/#pricing?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_7_announcement" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription users. Your support is crucial to our growth and allows us to continue improving. Thank you for being such an important part of our journey. 🚀</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://linkwarden.github.io/releases/2.7#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>We're actively bringing new features to Linkwarden users around the globe. If you like our work, please <a href="https://github.com/linkwarden/linkwarden" target="_blank" rel="noopener noreferrer">Star our repo on GitHub</a>! ⭐️ Your support means a lot to us.</p></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-code-refactoring-and-optimization">🛠️ Code Refactoring and Optimization<a href="https://linkwarden.github.io/releases/2.7#%EF%B8%8F-code-refactoring-and-optimization" class="hash-link" aria-label="Direct link to 🛠️ Code Refactoring and Optimization" title="Direct link to 🛠️ Code Refactoring and Optimization">​</a></h3>
+<p>The first thing you'll notice here is that Linkwarden is now faster and more efficient.<sup><a href="https://linkwarden.github.io/releases/2.7#user-content-fn-1-ce8b19" id="user-content-fnref-1-ce8b19" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup> And also the data now loads a skeleton placeholder while fetching the data instead of saying "you have no links", making the app feel more responsive.</p>
+<p>Here's a before and after comparison of the loading state:</p>
+<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">Before (v2.6.2)</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">After (v2.7.0)</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><img src="https://linkwarden.github.io/assets/v2.7/loading_before.jpeg" alt="Before"></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><img src="https://linkwarden.github.io/assets/v2.7/loading_after.jpeg" alt="After"></div></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-added-more-translation">🌐 Added More Translation<a href="https://linkwarden.github.io/releases/2.7#-added-more-translation" class="hash-link" aria-label="Direct link to 🌐 Added More Translation" title="Direct link to 🌐 Added More Translation">​</a></h3>
+<p>Thanks to the collaborators, we've added Chinese and French translations to Linkwarden. If you'd like to help us translate Linkwarden into your language, check out <a href="https://github.com/linkwarden/linkwarden/issues/216" target="_blank" rel="noopener noreferrer">#216</a>.</p>
+<img src="https://linkwarden.github.io/assets/v2.7/more_languages.jpeg" alt="Language dropdown image" width="450">
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/2.7#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>Check out the full changelog below.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.6.2...v2.7.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.6.2...v2.7.0</a></p>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://linkwarden.github.io/releases/2.7#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
+<ol>
+<li id="user-content-fn-1-ce8b19">
+<p><em>This took a lot more work than it should have since we had to refactor the whole server-side state management to use react-query instead of Zustand.</em> <a href="https://linkwarden.github.io/releases/2.7#user-content-fnref-1-ce8b19" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content:encoded>
+            <author>hello@daniel31x13.io (Daniel)</author>
+            <category>release</category>
+        </item>
         <item>
             <title><![CDATA[Announcing Linkwarden 2.6]]></title>
             <link>https://linkwarden.github.io/releases/2.6</link>
@@ -289,7 +319,7 @@ For self-hosted users, please visit the <strong><a href="https://docs.linkwarden
 <p>We improved the structure of API endpoints for better efficiency and maintenance.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes-security-patches-and-optimizations">🔧 Bug fixes, security patches, and optimizations<a href="https://linkwarden.github.io/releases/v2.0#-bug-fixes-security-patches-and-optimizations" class="hash-link" aria-label="Direct link to 🔧 Bug fixes, security patches, and optimizations" title="Direct link to 🔧 Bug fixes, security patches, and optimizations">​</a></h3>
 <p>Resolved a bug that caused images to reload unnecessarily.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/v2.0#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/v2.0#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to �✅ And more...">​</a></h3>
 <p>Check out the full changelog below.</p>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v1.2.5...v2.0.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v1.2.5...v2.0.0</a></p>]]></content:encoded>
             <author>hello@daniel31x13.io (Daniel)</author>
