@@ -2,11 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkwarden.github.io/</id>
     <title>Linkwarden Blog</title>
-    <updated>2024-11-12T10:00:00.000Z</updated>
+    <updated>2025-01-06T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkwarden.github.io/"/>
     <subtitle>Linkwarden Blog</subtitle>
     <icon>https://linkwarden.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Announcing Linkwarden 2.9]]></title>
+        <id>https://linkwarden.github.io/releases/2.9</id>
+        <link href="https://linkwarden.github.io/releases/2.9"/>
+        <updated>2025-01-06T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy New Year! 🎉 We're excited to announce the release of Linkwarden 2.9! 🥳 This update brings significant improvements and new features to enhance your experience.]]></summary>
+        <content type="html"><![CDATA[<p>Happy New Year! 🎉 We're excited to announce the release of <strong><a href="https://linkwarden.app/?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_9_announcement" target="_blank" rel="noopener noreferrer">Linkwarden 2.9</a></strong>! 🥳 This update brings significant improvements and new features to enhance your experience.</p>
+<p>For those who are new to Linkwarden, it's basically a tool for saving and organizing your bookmarks, articles, and documents in one place. You can also share your links with others, create public collections, and collaborate with your team. Linkwarden is available as a <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription or you can <strong><a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">self-host</a></strong> it on your own server.</p>
+<p>As always before we start, we'd like to express our sincere thanks to all of our <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription users. Your support is crucial to our growth and allows us to continue improving. Thank you for being such an important part of our journey. 🚀</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>We're actively bringing new features to Linkwarden users around the globe. If you like our work, please <a href="https://github.com/linkwarden/linkwarden" target="_blank" rel="noopener noreferrer">Star our repo on GitHub</a>! ⭐️ Your support means a lot to us.</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What’s new:<a href="https://linkwarden.github.io/releases/2.9#whats-new" class="hash-link" aria-label="Direct link to What’s new:" title="Direct link to What’s new:">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-local-ai-tagging-optional">✨ Local AI Tagging (Optional)<a href="https://linkwarden.github.io/releases/2.9#-local-ai-tagging-optional" class="hash-link" aria-label="Direct link to ✨ Local AI Tagging (Optional)" title="Direct link to ✨ Local AI Tagging (Optional)">​</a></h3>
+<p>We've added a new feature that automatically tags your links based on their content. This feature uses a local AI model to analyze the content of your links and can assign tags to links in 2 ways:</p>
+<ol>
+<li><strong>Auto-generate Tags</strong>: When a link is added, Linkwarden will automatically generate and assign tags based on the content of the link.</li>
+<li><strong>Using Predefined Tags</strong>: You can also use predefined tags to let Linkwarden auto-assign tags based on the content of the link.</li>
+</ol>
+<p>You can enable this feature in the Settings &gt; Preferences page. If you're self-hosting Linkwarden, please refer to the <a href="https://docs.linkwarden.app/self-hosting/ai-worker" target="_blank" rel="noopener noreferrer">documentation</a> for more information on how to set up and use this feature.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.9/ai_tagging.png" alt="AI Tagging Image"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-customizable-theme">🎨 Customizable Theme<a href="https://linkwarden.github.io/releases/2.9#-customizable-theme" class="hash-link" aria-label="Direct link to 🎨 Customizable Theme" title="Direct link to 🎨 Customizable Theme">​</a></h3>
+<p>We've added a new feature that allows you to customize the theme of your Linkwarden account. You can now choose from a set of predefined colors.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.9/custom_theme.png" alt="Custom Theme Image"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-capture-articles-directly-from-browser-extension">📸 Capture articles directly from browser extension<a href="https://linkwarden.github.io/releases/2.9#-capture-articles-directly-from-browser-extension" class="hash-link" aria-label="Direct link to 📸 Capture articles directly from browser extension" title="Direct link to 📸 Capture articles directly from browser extension">​</a></h3>
+<p>Sometimes certain websites prevent bots from accessing their content. In such cases, you can now capture the article directly from your browser using the Linkwarden browser extension and upload it to Linkwarden. Get it from the <a href="https://chromewebstore.google.com/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn" target="_blank" rel="noopener noreferrer">Chrome Web Store</a> or <a href="https://addons.mozilla.org/en-CA/firefox/addon/linkwarden" target="_blank" rel="noopener noreferrer">Firefox Add-ons</a>.</p>
+<p><em>Also please give us a 5-star rating if you like it :D</em></p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.9/extension.png" alt="Browser Extension Image"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-view-the-preserved-formats-on-links">📋 View the Preserved Formats on Links<a href="https://linkwarden.github.io/releases/2.9#-view-the-preserved-formats-on-links" class="hash-link" aria-label="Direct link to 📋 View the Preserved Formats on Links" title="Direct link to 📋 View the Preserved Formats on Links">​</a></h3>
+<p>Each link now shows the available preserved formats. This allows you to easily see the preserved formats for the link and open the link in the desired format in a new tab.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.9/available_formats.png" alt="Available Format Image"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-import-from-omnivore">⬇️ Import from Omnivore<a href="https://linkwarden.github.io/releases/2.9#%EF%B8%8F-import-from-omnivore" class="hash-link" aria-label="Direct link to ⬇️ Import from Omnivore" title="Direct link to ⬇️ Import from Omnivore">​</a></h3>
+<p>We've added a new import option to allow you to import your links from Omnivore. You can now easily migrate your links from Omnivore to Linkwarden.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-rss-feed-for-public-collections">🌟 RSS feed for Public Collections<a href="https://linkwarden.github.io/releases/2.9#-rss-feed-for-public-collections" class="hash-link" aria-label="Direct link to 🌟 RSS feed for Public Collections" title="Direct link to 🌟 RSS feed for Public Collections">​</a></h3>
+<p>Public collections now have an RSS feed link which lets others to follow your public collections and receive updates when you add new links.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-subscribe-to-rss-feed">🔔 Subscribe to RSS feed<a href="https://linkwarden.github.io/releases/2.9#-subscribe-to-rss-feed" class="hash-link" aria-label="Direct link to 🔔 Subscribe to RSS feed" title="Direct link to 🔔 Subscribe to RSS feed">​</a></h3>
+<p>Linkwarden now supports subscribing to RSS feeds. You can subscribe to any RSS feed and Linkwarden will automatically fetch and save new items from the feed.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-choose-whats-shown-on-the-dashboard">⚙️ Choose what's shown on the Dashboard<a href="https://linkwarden.github.io/releases/2.9#%EF%B8%8F-choose-whats-shown-on-the-dashboard" class="hash-link" aria-label="Direct link to ⚙️ Choose what's shown on the Dashboard" title="Direct link to ⚙️ Choose what's shown on the Dashboard">​</a></h3>
+<p>You can now choose to show/hide your pinned links and recent links sections on the dashboard. This allows you to customize the dashboard to your liking.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-added-more-translations">🌐 Added More Translations<a href="https://linkwarden.github.io/releases/2.9#-added-more-translations" class="hash-link" aria-label="Direct link to 🌐 Added More Translations" title="Direct link to 🌐 Added More Translations">​</a></h3>
+<p>Thanks to the collaborators, we've added Polish and Russian translations to Linkwarden. If you'd like to help us translate Linkwarden into your language, check out <a href="https://github.com/linkwarden/linkwarden/issues/216" target="_blank" rel="noopener noreferrer">#216</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/2.9#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>Check out the full changelog below.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.8.4...v2.9.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.8.4...v2.9.0</a></p>]]></content>
+        <author>
+            <name>Daniel</name>
+            <email>hello@daniel31x13.io</email>
+            <uri>https://github.com/daniel31x13</uri>
+        </author>
+        <category label="release" term="release"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Linkwarden 2.8]]></title>
         <id>https://linkwarden.github.io/releases/2.8</id>
@@ -212,7 +261,7 @@
 <p>There is a background script that automatically processes each link, creating archived versions without any user intervention. So from now on, every bookmark you save, <strong>including those imported from other sources</strong>, is automatically preserved, this means you'll have access to your favorite article even if the original content is gone!</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-archive-formats-other-than-webpages">🗃️ Archive Formats Other Than Webpages<a href="https://linkwarden.github.io/releases/v2.4#%EF%B8%8F-archive-formats-other-than-webpages" class="hash-link" aria-label="Direct link to 🗃️ Archive Formats Other Than Webpages" title="Direct link to 🗃️ Archive Formats Other Than Webpages">​</a></h3>
 <p>You can now archive Links that contain a PDF or Image and link preservation is no longer limited to webpages, for example: <a href="https://www.africau.edu/images/default/sample.pdf" target="_blank" rel="noopener noreferrer">https://www.africau.edu/images/default/sample.pdf</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-added-compact-list-view">📋 Added Compact List View<a href="https://linkwarden.github.io/releases/v2.4#-added-compact-list-view" class="hash-link" aria-label="Direct link to 📋 Added Compact List View" title="Direct link to 📋 Added Compact List View">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-added-compact-list-view">📋 Added Compact List View<a href="https://linkwarden.github.io/releases/v2.4#-added-compact-list-view" class="hash-link" aria-label="Direct link to 📋 Added Compact List View" title="Direct link to �📋 Added Compact List View">​</a></h3>
 <p>This new feature introduces a list-based format for viewing bookmarks. It's designed for those who prefer a more structured and straightforward way to browse their saved links. This view can be especially handy for quickly scanning through numerous bookmarks, making it easier to find what you're looking for.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhanced-user-experience">👍 Enhanced User Experience<a href="https://linkwarden.github.io/releases/v2.4#-enhanced-user-experience" class="hash-link" aria-label="Direct link to 👍 Enhanced User Experience" title="Direct link to 👍 Enhanced User Experience">​</a></h3>
 <p>There are many improvements made to enhance the user experience of the app, like for instance you can now add new Collections right from the navbar. Also when you try to delete a Link, you get a "Are you sure" prompt to prevent accidentally deletion of your Links.</p>
