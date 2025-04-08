@@ -2,11 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkwarden.github.io/</id>
     <title>Linkwarden Blog</title>
-    <updated>2025-01-06T06:00:00.000Z</updated>
+    <updated>2025-03-21T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkwarden.github.io/"/>
     <subtitle>Linkwarden Blog</subtitle>
     <icon>https://linkwarden.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Announcing Linkwarden 2.10]]></title>
+        <id>https://linkwarden.github.io/releases/2.10</id>
+        <link href="https://linkwarden.github.io/releases/2.10"/>
+        <updated>2025-03-21T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we're excited to announce the release of Linkwarden 2.10! 🥳 This update brings significant improvements and new features to enhance your experience.]]></summary>
+        <content type="html"><![CDATA[<p>Today, we're excited to announce the release of <strong><a href="https://linkwarden.app/?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_10_announcement" target="_blank" rel="noopener noreferrer">Linkwarden 2.10</a></strong>! 🥳 This update brings significant improvements and new features to enhance your experience.</p>
+<p>For those who are new to Linkwarden, it's basically a tool for preserving and organizing webpages, articles, and documents in one place. You can also share your resources with others, create public collections, and collaborate with your team. Linkwarden is available as a <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription or you can <strong><a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">self-host</a></strong> it on your own server.</p>
+<p>This release brings a range of updates to make your bookmarking and archiving experience even smoother. Let’s take a look:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What’s new:<a href="https://linkwarden.github.io/releases/2.10#whats-new" class="hash-link" aria-label="Direct link to What’s new:" title="Direct link to What’s new:">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-text-highlighting">⚡️ Text Highlighting<a href="https://linkwarden.github.io/releases/2.10#%EF%B8%8F-text-highlighting" class="hash-link" aria-label="Direct link to ⚡️ Text Highlighting" title="Direct link to ⚡️ Text Highlighting">​</a></h3>
+<p>You can now highlight text in your saved articles while in the readable view! Whether you’re studying, researching, or just storing interesting articles, you’ll be able to quickly locate the key ideas and insights you saved.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.10/highlight.png" alt="Text Highlighting Image"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-search-is-now-much-more-capable">🔍 Search Is Now <em>Much</em> More Capable<a href="https://linkwarden.github.io/releases/2.10#-search-is-now-much-more-capable" class="hash-link" aria-label="Direct link to -search-is-now-much-more-capable" title="Direct link to -search-is-now-much-more-capable">​</a></h3>
+<p>Our search engine got a big boost! Not only is it faster, but you can now use advanced search operators like <code>title:</code>, <code>url:</code>, <code>tag:</code>, <code>before:</code>, <code>after:</code> to really narrow down your results. To see all the available operators, check out the <a href="https://docs.linkwarden.app/usage/advanced-search" target="_blank" rel="noopener noreferrer">advanced search</a> page in the documentation.</p>
+<p>For example, to find links tagged “ai tools” before 2020 that aren’t in the “unorganized” collection, you can use the following search query:</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">tag:"ai tools" before:2020-01-01 !collection:unorganized</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>This feature makes it easier than ever to locate the links you need, especially if you have a large number of saved links.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-use-external-providers-for-ai-tagging">👾 Use External Providers for AI Tagging<a href="https://linkwarden.github.io/releases/2.10#-use-external-providers-for-ai-tagging" class="hash-link" aria-label="Direct link to 👾 Use External Providers for AI Tagging" title="Direct link to 👾 Use External Providers for AI Tagging">​</a></h3>
+<p>Previously, Linkwarden offered automated tagging through a local LLM (via Ollama). Now, you can also choose OpenAI, Anthropic, or other external AI providers. This is especially useful if you’re running Linkwarden on lower-end servers to offload the AI tasks to a remote service.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhanced-ai-tagging">🚀 Enhanced AI Tagging<a href="https://linkwarden.github.io/releases/2.10#-enhanced-ai-tagging" class="hash-link" aria-label="Direct link to 🚀 Enhanced AI Tagging" title="Direct link to 🚀 Enhanced AI Tagging">​</a></h3>
+<p>We’ve improved the AI tagging feature to make it even more effective. You can now tag existing links using AI, not just new ones. On top of that, you can also auto-categorize links to existing tags based on the content of each link.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.10/ai_tagging.png" alt="AI Tagging Image"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-worker-management-admin-only">⚙️ Worker Management (Admin Only)<a href="https://linkwarden.github.io/releases/2.10#%EF%B8%8F-worker-management-admin-only" class="hash-link" aria-label="Direct link to ⚙️ Worker Management (Admin Only)" title="Direct link to ⚙️ Worker Management (Admin Only)">​</a></h3>
+<p>For admins, Linkwarden 2.10 makes it easier to manage the archiving process. Clear old preservations or re-archive any failed ones whenever you need to, helping you keep your setup tidy and up to date.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.10/worker_page.png" alt="Worker Page Image"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/2.10#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>There are also a bunch of smaller improvements and fixes in this release to keep everything running smoothly.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.9.3...v2.10.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.9.3...v2.10.0</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="want-to-skip-the-technical-setup">Want to skip the technical setup?<a href="https://linkwarden.github.io/releases/2.10#want-to-skip-the-technical-setup" class="hash-link" aria-label="Direct link to Want to skip the technical setup?" title="Direct link to Want to skip the technical setup?">​</a></h2>
+<p>If you’d rather skip server setup and maintenance, our <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud Plan</a></strong> takes care of everything for you. It’s a great way to access all of Linkwarden’s features—plus future updates—without the technical overhead.</p>
+<hr>
+<p>We hope you enjoy these new enhancements, and as always, we'd like to express our sincere thanks to all of our supporters and contributors. Your feedback and contributions have been invaluable in shaping Linkwarden into what it is today. 🚀</p>
+<p>Also a special shout-out to <strong><a href="https://github.com/il516" target="_blank" rel="noopener noreferrer">Isaac</a></strong>, who's been a key contributor across multiple releases. He's currently open to work, so if you're looking for someone who’s sharp, collaborative, and genuinely passionate about open source, definitely consider reaching out to him!</p>]]></content>
+        <author>
+            <name>Daniel</name>
+            <email>hello@daniel31x13.io</email>
+            <uri>https://github.com/daniel31x13</uri>
+        </author>
+        <category label="release" term="release"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Linkwarden 2.9]]></title>
         <id>https://linkwarden.github.io/releases/2.9</id>
@@ -261,7 +302,7 @@
 <p>There is a background script that automatically processes each link, creating archived versions without any user intervention. So from now on, every bookmark you save, <strong>including those imported from other sources</strong>, is automatically preserved, this means you'll have access to your favorite article even if the original content is gone!</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-archive-formats-other-than-webpages">🗃️ Archive Formats Other Than Webpages<a href="https://linkwarden.github.io/releases/v2.4#%EF%B8%8F-archive-formats-other-than-webpages" class="hash-link" aria-label="Direct link to 🗃️ Archive Formats Other Than Webpages" title="Direct link to 🗃️ Archive Formats Other Than Webpages">​</a></h3>
 <p>You can now archive Links that contain a PDF or Image and link preservation is no longer limited to webpages, for example: <a href="https://www.africau.edu/images/default/sample.pdf" target="_blank" rel="noopener noreferrer">https://www.africau.edu/images/default/sample.pdf</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-added-compact-list-view">📋 Added Compact List View<a href="https://linkwarden.github.io/releases/v2.4#-added-compact-list-view" class="hash-link" aria-label="Direct link to 📋 Added Compact List View" title="Direct link to �📋 Added Compact List View">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-added-compact-list-view">📋 Added Compact List View<a href="https://linkwarden.github.io/releases/v2.4#-added-compact-list-view" class="hash-link" aria-label="Direct link to 📋 Added Compact List View" title="Direct link to 📋 Added Compact List View">​</a></h3>
 <p>This new feature introduces a list-based format for viewing bookmarks. It's designed for those who prefer a more structured and straightforward way to browse their saved links. This view can be especially handy for quickly scanning through numerous bookmarks, making it easier to find what you're looking for.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhanced-user-experience">👍 Enhanced User Experience<a href="https://linkwarden.github.io/releases/v2.4#-enhanced-user-experience" class="hash-link" aria-label="Direct link to 👍 Enhanced User Experience" title="Direct link to 👍 Enhanced User Experience">​</a></h3>
 <p>There are many improvements made to enhance the user experience of the app, like for instance you can now add new Collections right from the navbar. Also when you try to delete a Link, you get a "Are you sure" prompt to prevent accidentally deletion of your Links.</p>
