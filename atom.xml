@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkwarden.github.io/</id>
     <title>Linkwarden Blog</title>
-    <updated>2025-03-21T06:00:00.000Z</updated>
+    <updated>2025-06-27T09:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkwarden.github.io/"/>
     <subtitle>Linkwarden Blog</subtitle>
     <icon>https://linkwarden.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Announcing Linkwarden 2.11]]></title>
+        <id>https://linkwarden.github.io/releases/2.11</id>
+        <link href="https://linkwarden.github.io/releases/2.11"/>
+        <updated>2025-06-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we're excited to announce the release of Linkwarden 2.11! 🥳 This update brings significant improvements and new features to enhance your experience.]]></summary>
+        <content type="html"><![CDATA[<p>Today, we're excited to announce the release of <strong><a href="https://linkwarden.app/?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_11_announcement" target="_blank" rel="noopener noreferrer">Linkwarden 2.11</a></strong>! 🥳 This update brings significant improvements and new features to enhance your experience.</p>
+<p>For those who are new to Linkwarden, it’s basically a tool for saving and organizing webpages, articles, and documents all in one place. It’s great for bookmarking stuff to read later, and you can also share your resources, create public collections, and collaborate with your team. Linkwarden is available as a <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription or you can <strong><a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">self-host</a></strong> it on your own server.</p>
+<p>This release brings a range of updates to make your bookmarking and archiving experience even smoother. Let’s take a look:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What’s new:<a href="https://linkwarden.github.io/releases/2.11#whats-new" class="hash-link" aria-label="Direct link to What’s new:" title="Direct link to What’s new:">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-customizable-readable-view">✨ Customizable Readable View<a href="https://linkwarden.github.io/releases/2.11#-customizable-readable-view" class="hash-link" aria-label="Direct link to ✨ Customizable Readable View" title="Direct link to ✨ Customizable Readable View">​</a></h3>
+<p>You can now configure the font style, font size, line height, and line width for the readable view. This allows you to create a more personalized reading experience that suits your preferences.</p>
+<p>This feature essentially gives Linkwarden what other read-it-later apps like <a href="https://getpocket.com/" target="_blank" rel="noopener noreferrer">Pocket</a> offered.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.11/readable.gif" alt="Customizable Readable View GIF"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-add-notes-to-highlights">📝 Add Notes to Highlights<a href="https://linkwarden.github.io/releases/2.11#-add-notes-to-highlights" class="hash-link" aria-label="Direct link to 📝 Add Notes to Highlights" title="Direct link to 📝 Add Notes to Highlights">​</a></h3>
+<p>You can now add notes to your highlights in the readable view and view them in the highlights sidebar. This is a great way to jot down your thoughts or insights while reading, making it easier to remember key points later.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.11/comments.gif" alt="Add Notes to Highlights GIF"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-customizable-dashboard">⚙️ Customizable Dashboard<a href="https://linkwarden.github.io/releases/2.11#%EF%B8%8F-customizable-dashboard" class="hash-link" aria-label="Direct link to ⚙️ Customizable Dashboard" title="Direct link to ⚙️ Customizable Dashboard">​</a></h3>
+<p>The dashboard has received a major overhaul! You can now customize it to show the information that matters most to you. Choose from various widgets like recent links, pinned links, or your saved collections. This makes it easier to access the content you care about right from the dashboard.</p>
+<p align="center"><img src="https://linkwarden.github.io/assets/v2.11/dashboard.gif" alt="Customizable Dashboard GIF"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-import-from-pocket">📥 Import from Pocket<a href="https://linkwarden.github.io/releases/2.11#-import-from-pocket" class="hash-link" aria-label="Direct link to 📥 Import from Pocket" title="Direct link to 📥 Import from Pocket">​</a></h3>
+<p>Good news for Pocket users! You can now import your saved links from Pocket into Linkwarden. This makes it easy to transition to Linkwarden without losing your existing bookmarks.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="crowdin-translation">Crowdin translation<a href="https://linkwarden.github.io/releases/2.11#crowdin-translation" class="hash-link" aria-label="Direct link to Crowdin translation" title="Direct link to Crowdin translation">​</a></h3>
+<p>We’ve integrated Crowdin for translations, making it easier to contribute translations for Linkwarden. If you’re interested in helping out with translations, check out our <a href="https://crowdin.com/project/linkwarden" target="_blank" rel="noopener noreferrer">Crowdin page</a>.</p>
+<p>To start translating a new language, please contact us so we can set it up for you. New languages will be added once they reach at least 50% translation completion.</p>
+<p><a href="https://crowdin.com/project/linkwarden" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://badges.crowdin.net/linkwarden/localized.svg" alt="Crowdin" class="img_ev3q"></a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-improved-ui">🎨 Improved UI<a href="https://linkwarden.github.io/releases/2.11#-improved-ui" class="hash-link" aria-label="Direct link to 🎨 Improved UI" title="Direct link to 🎨 Improved UI">​</a></h3>
+<p>Thanks to Shadcn UI, the user interface has been improved with a more modern and polished look. This update enhances the overall user interface, making it easier to use Linkwarden.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/2.11#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>There are also a bunch of smaller improvements and fixes in this release to keep everything running smoothly.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.10.2...v2.11.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.10.2...v2.11.0</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="want-to-skip-the-technical-setup">Want to skip the technical setup?<a href="https://linkwarden.github.io/releases/2.11#want-to-skip-the-technical-setup" class="hash-link" aria-label="Direct link to Want to skip the technical setup?" title="Direct link to Want to skip the technical setup?">​</a></h2>
+<p>If you’d rather skip server setup and maintenance, our <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud Plan</a></strong> takes care of everything for you. It’s a great way to access all of Linkwarden’s features—plus future updates—without the technical overhead.</p>
+<hr>
+<p>We hope you enjoy these new enhancements, and as always, we'd like to express our sincere thanks to all of our supporters and contributors. Your feedback and contributions have been invaluable in shaping Linkwarden into what it is today. 🚀</p>]]></content>
+        <author>
+            <name>Daniel</name>
+            <email>hello@daniel31x13.io</email>
+            <uri>https://github.com/daniel31x13</uri>
+        </author>
+        <category label="release" term="release"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Linkwarden 2.10]]></title>
         <id>https://linkwarden.github.io/releases/2.10</id>
@@ -221,7 +263,7 @@
 <img src="https://linkwarden.github.io/assets/v2.6/macos_app.jpeg" alt="MacOS app" width="548">
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-import-from-wallabag">📥 Import from Wallabag<a href="https://linkwarden.github.io/releases/2.6#-import-from-wallabag" class="hash-link" aria-label="Direct link to 📥 Import from Wallabag" title="Direct link to 📥 Import from Wallabag">​</a></h3>
 <p>There was a high demand for this feature, and we're excited to announce that you can now import your bookmarks from Wallabag. This feature simplifies the transition process, allowing users to maintain their bookmarks without hassle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-support-for-other-languages-i18n">🌐 Support for Other Languages (i18n)<a href="https://linkwarden.github.io/releases/2.6#-support-for-other-languages-i18n" class="hash-link" aria-label="Direct link to 🌐 Support for Other Languages (i18n)" title="Direct link to 🌐 Support for Other Languages (i18n)">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-support-for-other-languages-i18n">🌐 Support for Other Languages (i18n)<a href="https://linkwarden.github.io/releases/2.6#-support-for-other-languages-i18n" class="hash-link" aria-label="Direct link to 🌐 Support for Other Languages (i18n)" title="Direct link to ���🌐 Support for Other Languages (i18n)">​</a></h3>
 <p>Linkwarden has recently expanded to support Italian in addition to English. As this feature is quite new, there might be some bugs, and we're actively working to refine it. We're also looking for community help with translations to make Linkwarden accessible in more languages soon!</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="-image-and-pdf-uploads">📁 Image and PDF Uploads<a href="https://linkwarden.github.io/releases/2.6#-image-and-pdf-uploads" class="hash-link" aria-label="Direct link to 📁 Image and PDF Uploads" title="Direct link to 📁 Image and PDF Uploads">​</a></h3>
 <p>Users can now upload images and PDF files directly to Linkwarden. This feature is perfect for users who want to store paywalled or password-protected content.</p>
