@@ -9,7 +9,7 @@ tags:
   - archive
   - bookmark management
   - bookmark
-title: "Link Rot and Its Impact on the Web"
+title: "Link Rot and its Impact on The Internet"
 description: "Explore strategies to prevent link rot, a common issue where web links become obsolete, and learn how to prevent it."
 keywords:
   [
@@ -26,9 +26,9 @@ image: https://blog.linkwarden.app/assets/images/link_rot-287f7ef9adbb7eaf35091d
 
 # Link Rot and Its Impact on the Web
 
-![link rot](/assets/articles/link_rot.jpeg)
+<div align="center"><img src="/assets/articles/link_rot.jpeg" alt="link rot" style={{ objectFit: 'cover', width: '500px', height: '300px' }} /></div>
 
-Have you ever clicked on a link hoping to find specific information, only to be greeted with an error message - perhaps something like a 404 not found error? This frustrating experience is known as "Link Rot," a common issue in the ever-evolving digital landscape. In this post, we'll explore what link rot is, why it happens, and practical solutions to mitigate its impact.
+Have you ever clicked on a link hoping to find a specific information, only to be greeted with an error message - perhaps something like a "404 not found" error? This frustrating effect is known as "Link Rot," a common issue with the web. In this post, we'll explore what link rot is, why it happens, and practical solutions to mitigate its impact.
 
 <!--truncate-->
 
