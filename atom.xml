@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkwarden.github.io/</id>
     <title>Linkwarden Blog</title>
-    <updated>2025-06-27T09:30:00.000Z</updated>
+    <updated>2025-08-27T09:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkwarden.github.io/"/>
     <subtitle>Linkwarden Blog</subtitle>
     <icon>https://linkwarden.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Announcing Linkwarden 2.12]]></title>
+        <id>https://linkwarden.github.io/releases/2.12</id>
+        <link href="https://linkwarden.github.io/releases/2.12"/>
+        <updated>2025-08-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we're excited to announce the release of Linkwarden 2.12! 🥳 This update brings significant improvements and new features to enhance your experience.]]></summary>
+        <content type="html"><![CDATA[<p>Today, we're excited to announce the release of <strong><a href="https://linkwarden.app/?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_12_announcement" target="_blank" rel="noopener noreferrer">Linkwarden 2.12</a></strong>! 🥳 This update brings significant improvements and new features to enhance your experience.</p>
+<p>For those who are new to Linkwarden, it’s basically a tool for saving and organizing webpages, articles, and documents all in one place. It’s great for bookmarking stuff to read later, and you can also share your resources, create public collections, and collaborate with your team. Linkwarden is available as a <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription or you can <strong><a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">self-host</a></strong> it on your own server.</p>
+<p>This release brings a range of updates to make your bookmarking and archiving experience even smoother. Let’s take a look:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What’s new:<a href="https://linkwarden.github.io/releases/2.12#whats-new" class="hash-link" aria-label="Direct link to What’s new:" title="Direct link to What’s new:">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-drag-and-drop-support">🫧 Drag and Drop Support<a href="https://linkwarden.github.io/releases/2.12#-drag-and-drop-support" class="hash-link" aria-label="Direct link to 🫧 Drag and Drop Support" title="Direct link to 🫧 Drag and Drop Support">​</a></h3>
+<p>One of our most requested features is finally here! You can now drag and drop Links onto Collections and Tags. This makes it much easier to organize your bookmarks and keep everything tidy.</p>
+<p>Here’s a quick demo:</p>
+<video controls="" width="100%"><source src="/assets/v2.12/dnd.mp4"></video>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-upload-from-singlefile">📤 Upload from SingleFile<a href="https://linkwarden.github.io/releases/2.12#-upload-from-singlefile" class="hash-link" aria-label="Direct link to 📤 Upload from SingleFile" title="Direct link to 📤 Upload from SingleFile">​</a></h3>
+<p>SingleFile is an awesome browser extension that allows you to save complete webpages as a single HTML file on your device. As of Linkwarden 2.12, you can upload your saved links directly from the SingleFile browser extension into Linkwarden. This allows you to easily save articles which are behind paywalls or require authentication directly from your browser.</p>
+<p>To use this feature, simply install the SingleFile extension, and then follow the <a href="https://docs.linkwarden.app/usage/upload-from-singlefile" target="_blank" rel="noopener noreferrer">documentation</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-progressed-translations">🌐 Progressed Translations<a href="https://linkwarden.github.io/releases/2.12#-progressed-translations" class="hash-link" aria-label="Direct link to 🌐 Progressed Translations" title="Direct link to 🌐 Progressed Translations">​</a></h3>
+<p>We’ve made significant progress in our translations, with many languages now fully supported. If you’re interested in helping out with translations, check out our <a href="https://crowdin.com/project/linkwarden" target="_blank" rel="noopener noreferrer">Crowdin page</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/2.12#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>There are also a bunch of smaller improvements and fixes in this release to keep everything running smoothly.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.11.8...v2.12.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.11.8...v2.12.0</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="want-to-skip-the-technical-setup">Want to skip the technical setup?<a href="https://linkwarden.github.io/releases/2.12#want-to-skip-the-technical-setup" class="hash-link" aria-label="Direct link to Want to skip the technical setup?" title="Direct link to Want to skip the technical setup?">​</a></h2>
+<p>If you’d rather skip server setup and maintenance, our <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud Plan</a></strong> takes care of everything for you. It’s a great way to access all of Linkwarden’s features—plus future updates—without the technical overhead.</p>
+<hr>
+<p>We hope you enjoy these new enhancements, and as always, we'd like to express our sincere thanks to all of our supporters and contributors. Your feedback and contributions have been invaluable in shaping Linkwarden into what it is today. 🚀</p>]]></content>
+        <author>
+            <name>Daniel</name>
+            <email>hello@daniel31x13.io</email>
+            <uri>https://github.com/daniel31x13</uri>
+        </author>
+        <category label="release" term="release"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Linkwarden 2.11]]></title>
         <id>https://linkwarden.github.io/releases/2.11</id>
