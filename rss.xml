@@ -4,10 +4,39 @@
         <title>Linkwarden Blog</title>
         <link>https://linkwarden.github.io/</link>
         <description>Linkwarden Blog</description>
-        <lastBuildDate>Wed, 27 Aug 2025 09:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 09:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Announcing Linkwarden 2.13]]></title>
+            <link>https://linkwarden.github.io/releases/2.13</link>
+            <guid>https://linkwarden.github.io/releases/2.13</guid>
+            <pubDate>Thu, 25 Sep 2025 09:30:00 GMT</pubDate>
+            <description><![CDATA[Today, we're excited to announce the release of Linkwarden 2.13! 🥳 This update brings significant improvements and new features to enhance your experience.]]></description>
+            <content:encoded><![CDATA[<p>Today, we're excited to announce the release of <strong><a href="https://linkwarden.app/?utm_source=Blog&amp;utm_medium=social&amp;utm_campaign=v2_13_announcement" target="_blank" rel="noopener noreferrer">Linkwarden 2.13</a></strong>! 🥳 This update brings significant improvements and new features to enhance your experience.</p>
+<p>For those who are new to Linkwarden, it’s basically a tool to collect, read, annotate, and fully preserve webpages, articles, and documents, all in one place. It’s great for bookmarking stuff to read later, and you can also share your resources, create public collections, and collaborate with your team. Linkwarden is available as a <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription or you can <strong><a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">self-host</a></strong> it on your own server.</p>
+<p>This release brings a range of updates to make your bookmarking and archiving experience even smoother. Let’s take a look:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What’s new:<a href="https://linkwarden.github.io/releases/2.13#whats-new" class="hash-link" aria-label="Direct link to What’s new:" title="Direct link to What’s new:">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-new-tag-management-page">🏷️ New Tag Management Page<a href="https://linkwarden.github.io/releases/2.13#%EF%B8%8F-new-tag-management-page" class="hash-link" aria-label="Direct link to 🏷️ New Tag Management Page" title="Direct link to 🏷️ New Tag Management Page">​</a></h3>
+<p>We added a dedicated page where you can view, sort, add, bulk merge, and bulk delete you Tags, all in one place.</p>
+<video controls="" width="100%"><source src="/assets/v2.13/tags.mp4"></video>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-compact-sidebar">⚙️ Compact Sidebar<a href="https://linkwarden.github.io/releases/2.13#%EF%B8%8F-compact-sidebar" class="hash-link" aria-label="Direct link to ⚙️ Compact Sidebar" title="Direct link to ⚙️ Compact Sidebar">​</a></h3>
+<p>You can now shrink the sidebar for a more compact and minimal look.</p>
+<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">Compact</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Normal</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><img src="https://linkwarden.github.io/assets/v2.13/compact.jpeg" alt="Details" height="500"></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><img src="https://linkwarden.github.io/assets/v2.13/normal.jpeg" alt="Edit" height="500"></div></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes-and-optimizations">🐞 Bug fixes and Optimizations<a href="https://linkwarden.github.io/releases/2.13#-bug-fixes-and-optimizations" class="hash-link" aria-label="Direct link to 🐞 Bug fixes and Optimizations" title="Direct link to 🐞 Bug fixes and Optimizations">​</a></h3>
+<p>This release comes with many bug fixes, security fixes, and optimizations that's recommended for all users.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-and-more">✅ And more...<a href="https://linkwarden.github.io/releases/2.13#-and-more" class="hash-link" aria-label="Direct link to ✅ And more..." title="Direct link to ✅ And more...">​</a></h3>
+<p>There are also a bunch of smaller improvements and fixes in this release to keep everything running smoothly.</p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/linkwarden/linkwarden/compare/v2.12.2...v2.13.0" target="_blank" rel="noopener noreferrer">https://github.com/linkwarden/linkwarden/compare/v2.12.2...v2.13.0</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="want-to-skip-the-technical-setup">Want to skip the technical setup?<a href="https://linkwarden.github.io/releases/2.13#want-to-skip-the-technical-setup" class="hash-link" aria-label="Direct link to Want to skip the technical setup?" title="Direct link to Want to skip the technical setup?">​</a></h2>
+<p>If you’d rather skip server setup and maintenance, our <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud Plan</a></strong> takes care of everything for you. It’s a great way to access all of Linkwarden’s features—plus future updates—without the technical overhead.</p>
+<hr>
+<p>We hope you enjoy these new enhancements, and as always, we'd like to express our sincere thanks to all of our supporters and contributors. Your feedback and contributions have been invaluable in shaping Linkwarden into what it is today. 🚀</p>
+<p>Also, the Official Mobile App for iOS and Android are coming very soon! Follow us on <strong><a href="https://fosstodon.org/@linkwarden" target="_blank" rel="noopener noreferrer">Mastodon</a></strong>, <strong><a href="https://x.com/linkwardenhq" target="_blank" rel="noopener noreferrer">Twitter (X)</a></strong>, and <strong><a href="https://bsky.app/profile/linkwarden.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a></strong> for the latest updates.</p>]]></content:encoded>
+            <author>hello@daniel31x13.io (Daniel)</author>
+            <category>release</category>
+        </item>
         <item>
             <title><![CDATA[Announcing Linkwarden 2.12]]></title>
             <link>https://linkwarden.github.io/releases/2.12</link>
@@ -47,7 +76,7 @@
 <p>For those who are new to Linkwarden, it’s basically a tool for saving and organizing webpages, articles, and documents all in one place. It’s great for bookmarking stuff to read later, and you can also share your resources, create public collections, and collaborate with your team. Linkwarden is available as a <strong><a href="https://linkwarden.app/#pricing" target="_blank" rel="noopener noreferrer">Cloud</a></strong> subscription or you can <strong><a href="https://docs.linkwarden.app/self-hosting/installation" target="_blank" rel="noopener noreferrer">self-host</a></strong> it on your own server.</p>
 <p>This release brings a range of updates to make your bookmarking and archiving experience even smoother. Let’s take a look:</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What’s new:<a href="https://linkwarden.github.io/releases/2.11#whats-new" class="hash-link" aria-label="Direct link to What’s new:" title="Direct link to What’s new:">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-customizable-readable-view">✨ Customizable Readable View<a href="https://linkwarden.github.io/releases/2.11#-customizable-readable-view" class="hash-link" aria-label="Direct link to ✨ Customizable Readable View" title="Direct link to ✨ Customizable Readable View">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-customizable-readable-view">✨ Customizable Readable View<a href="https://linkwarden.github.io/releases/2.11#-customizable-readable-view" class="hash-link" aria-label="Direct link to �✨ Customizable Readable View" title="Direct link to ✨ Customizable Readable View">​</a></h3>
 <p>You can now configure the font style, font size, line height, and line width for the readable view. This allows you to create a more personalized reading experience that suits your preferences.</p>
 <p>This feature essentially gives Linkwarden what other read-it-later apps like <a href="https://getpocket.com/" target="_blank" rel="noopener noreferrer">Pocket</a> offered.</p>
 <p align="center"><img src="https://linkwarden.github.io/assets/v2.11/readable.gif" alt="Customizable Readable View GIF"></p>
